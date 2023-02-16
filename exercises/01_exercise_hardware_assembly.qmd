@@ -7,6 +7,12 @@ author: Prof. Dr. Nicolas Meseth
 
 In your first exercise, you make sure that you have everything you need to start with the LiFi-project. This includes the **hardware kit**, which requires some assembly, as well as a **development environment** on your computer. You apply different **smoke tests** to both.
 
+Here are the relevant sections of the online script. Make sure you read everything carefully in order to solve this exercise:
+
+- [1 - Hardware Assembly](https://lifi.datalit.de/lifi-project/hardware-assembly)
+- [2 - Development Environment](https://lifi.datalit.de/lifi-project/development-environment)
+- [3 - Smoke Tests](https://lifi.datalit.de/lifi-project/smoke-tests)
+
 ## Your Tasks
 
 To pass this exercise, you must complete the following tasks and demonstrate the result in the examination interview.
