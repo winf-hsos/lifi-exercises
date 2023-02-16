@@ -1,0 +1,13 @@
+project:
+  title: "LiFi-Project Exercises"
+author: Prof. Dr. Nicolas Meseth
+subtitle: "Digitalization & Programming | Summer 2023"
+lang: en
+format:
+  pdf:
+    toc: false
+    number-sections: false
+    colorlinks: true
+
+
+

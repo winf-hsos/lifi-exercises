@@ -1,0 +1,61 @@
+---
+title: "Exercise 1: Hardware Assembly, Development Environment, and Smoke Test"
+author: Prof. Dr. Nicolas Meseth
+---
+
+## Overview
+
+In your first exercise, you make sure that you have everything you need to start with the LiFi-project. This includes the **hardware kit**, which requires some assembly, as well as a **development environment** on your computer. You apply different **smoke tests** to both.
+
+## Your Tasks
+
+To pass this exercise, you must complete the following tasks and demonstrate the result in the examination interview.
+
+### 1. Assemble the Hardware
+
+You should have an been provided with a hardware kit for the LiFi-project. For your first task, you need to assemble the separate hardware components into a hardware prototype for the LiFi-project. This involves some screwing and wiring. You find the detailed instructions in the [online script](https://lifi.datalit.de/lifi-project/hardware-assembly).
+
+### 2. Install the Development Environment
+
+In this task, install the necessary software for the development environment on your computer. You find all instructions and download links in the [online script](https://lifi.datalit.de/lifi-project/development-environment). As a reminder, here is a list of the software you need to install:
+
+-   Brick Viewer and Brick Daemon
+-   Visual Studio Code
+-   Python
+-   Git
+
+### 3. Smoke Tests
+
+Finally, you should run a number of tests to check your hardware and software setup.
+
+*a) with the Brick Viewer*
+
+1.  Connect your hardware kit to your computer using the provided USB cable.
+
+2.  Open the Brick Viewer software on your computer.
+
+3.  Connect to the hardware kit using the default host and port information. Check whether all devices are found and shown in separate tabs.
+
+4.  Perform the various smoke tests detailed in the online script.
+
+*b) with a Python program*
+
+1.  Check out the LiFi GitHub repository.
+
+2.  Open the file `smoke_test.py` in Visual Studio Code.
+
+3.  Run the program from a terminal and check the output for errors.
+
+## Submission and Interview
+
+For your first exercise, please submit one or more photos of your assembled hardware kit via the designated submission folder in [ILIAS](https://lms.hs-osnabrueck.de).
+
+For the exam interview, please bring the assembled hardware kit along with your computer with the development environment installed and configured. You will need to demonstrate that:
+
+-   You can connect to your hardware kit from the Brick Viewer software.
+
+-   You have a working development environment consisting of the latest version of Visual Studio Code, Python and Git.
+
+-   You can connect to your hardware kit from the provided Python program.
+
+Only if you master this exercise are you ready for the next steps in the LiFi-project!
