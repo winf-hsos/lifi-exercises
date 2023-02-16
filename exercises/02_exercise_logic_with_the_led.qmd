@@ -1,0 +1,31 @@
+---
+title: "Exercise 2: Logic with the LED"
+author: Prof. Dr. Nicolas Meseth
+---
+
+## Overview
+
+In the second exercise ...
+
+Here are the relevant sections of the online script. Make sure you read everything carefully in order to solve this exercise:
+
+- [4 - The LED](https://lifi.datalit.de/lifi-project/the-led)
+- [5 - Code Systems](https://lifi.datalit.de/lifi-project/code-systems)
+- [6 - Morse Code](https://lifi.datalit.de/lifi-project/morse-code)
+
+## Your Tasks
+
+To pass this exercise, you must complete the following tasks and demonstrate the result in the examination interview.
+
+### 1. ...
+
+
+### 2. ...
+
+
+### 3. ...
+
+
+## Submission and Interview
+
+For this exercise, please submit your working Python code via the designated submission folder in [ILIAS](https://lms.hs-osnabrueck.de).
