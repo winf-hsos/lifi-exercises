@@ -9,21 +9,42 @@ In the second exercise ...
 
 Here are the relevant sections of the online script. Make sure you read everything carefully in order to solve this exercise:
 
-- [4 - The LED](https://lifi.datalit.de/lifi-project/the-led)
-- [5 - Code Systems](https://lifi.datalit.de/lifi-project/code-systems)
-- [6 - Morse Code](https://lifi.datalit.de/lifi-project/morse-code)
+-   [4 - The LED](https://lifi.datalit.de/lifi-project/the-led)
+-   [5 - Code Systems](https://lifi.datalit.de/lifi-project/code-systems)
+-   [6 - Morse Code](https://lifi.datalit.de/lifi-project/morse-code)
 
 ## Your Tasks
 
 To pass this exercise, you must complete the following tasks and demonstrate the result in the examination interview.
 
-### 1. ...
+### 1. Colors by Shortcut
+
+In the LiFi prototype, the LED will act as the sender of information. This requires frequent changes of the LED's color and being able to turn it off at times. To practice this, create a program that changes the LED's color based on the user's keyboard input. More specifically:
+
+-   Write a program that initially turns off the LED and then waits for the user to enter a key on the keyboard and confirm the input with the enter key.
+
+-   The input can be any of the following letter: "r", "g", "b", "y", or one of the keywords "off" or "exit". All other input is invalid and should result in an error message: *"Invalid input. Please type either r, g, b, y, or off/exit."*
+
+-   Each of the four letters represents a color (r = red, g = green, b = blue, y = yellow) to which the LED should be set after the user confirms her choice with the enter key.
+
+-   The keyword "off" should turn off the LED. If it is already off, then nothing happens and a warning message is printed: *"LED is already off"*.
+
+-   The keyword "exit" should exit the program after it printed a short good bye message.
+
+### 2. Random Color Sequence
+
+Write a program that randomly chooses a color from the RGB spectrum and sets the LED to that color for a constant duration $d$. The program should change the LED's color a configurable number of times until it exits.
+
+What happens when all RGB values are very small by chance? How could you prevent this from happening and improve the program?
 
 
-### 2. ...
+### 3. Traffic Light
 
+Write a program that simulates the LED as a traffic light. The traffic light should start with a red-phase that lasts $d_{red}$ seconds. The red-phase is followed by a transition-phase from red to green, where the LED turns orange for $d_{orange}$ seconds before it turns green and enters the green-phase. The green-phase lasts $d_{green}$ seconds and is yet again followed by a transition-phase, this time from green to red. The orange light again lasts for $d_{orange}$ seconds. Choose useful values for the three duration parameters $d_{red}$, $d_{green}$, and $d_{yellow}$. Make sure that 
 
-### 3. ...
+$$d_{red} > d_{green} > d_{orange}$$
+
+holds true.
 
 
 ## Submission and Interview
