@@ -68,6 +68,22 @@ $$d_{red} > d_{green} > d_{orange}$$
 
 holds true.
 
+------------------------------------------------------------------------
+
+## More Questions to Practice
+
+Try to answer the following questions to practice your understanding of the topics around the LiFi-project.
+
+### 6. Code Systems
+
+- How many colors could we encode if we used only 7 bits instead of 8 for each of the base colors red, green, and blue?
+
+- Would it make sense to create an extended version of the RGB code that adds an extra byte for each of the base colors? How many colors would we be able to encode then? Find arguments for and against this idea!
+
+- We did not always enjoy the full 16,777,216 colors on our computer screens. Do some research on how color codes evolved over the history of digital computers. Can you find some screenshots from long gone times?
+
+
+
 ## Submission and Interview
 
 For this exercise, please submit your working Python code via the designated submission folder in [ILIAS](https://lms.hs-osnabrueck.de).
