@@ -11,7 +11,8 @@ Here are the relevant sections of the online script. Make sure you read everythi
 
 - [1 - Hardware Assembly](https://lifi.datalit.de/lifi-project/hardware-assembly)
 - [2 - Development Environment](https://lifi.datalit.de/lifi-project/development-environment)
-- [3 - Smoke Tests](https://lifi.datalit.de/lifi-project/smoke-tests)
+- [3 - Smoke Test](https://lifi.datalit.de/lifi-project/smoke-test)
+- [4 - Programs](https://lifi.datalit.de/lifi-project/programs)
 
 ## Your Tasks
 
