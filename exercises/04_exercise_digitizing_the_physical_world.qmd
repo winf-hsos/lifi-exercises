@@ -1,17 +1,17 @@
 ---
-title: "Exercise 3: The Human Operator"
+title: "Exercise 4: Digitizing the Physical World"
 author: Prof. Dr. Nicolas Meseth
 ---
 
 ## Overview
 
-In the third exercise of the LiFi-project ...
+In the fourth exercise of the LiFi-project ...
 
 Here are the relevant sections of the online script. Make sure you read everything carefully in order to solve this exercise:
 
--   [8 - The Binary System](https://lifi.datalit.de/lifi-project/the-binary-system)
--   [9 - The Rotary Encoder](https://lifi.datalit.de/lifi-project/the-rotary-encoder)
--   [10 - Human Input](https://lifi.datalit.de/lifi-project/human-input)
+-   [11 - Sensing Light](https://lifi.datalit.de/lifi-project/sensing-light)
+-   [12 - The Color Sensor](https://lifi.datalit.de/lifi-project/the-color-sensor)
+-   [13 - Digitization](https://lifi.datalit.de/lifi-project/digitization)
 
 ## Your Tasks
 
