@@ -82,6 +82,8 @@ Try to answer the following questions to practice your understanding of the topi
 
 - We did not always enjoy the full 16,777,216 colors on our computer screens. Do some research on how color codes evolved over the history of digital computers. Can you find some screenshots from long gone times?
 
+- Is Morse code a binary code system?
+
 
 
 ## Submission and Interview

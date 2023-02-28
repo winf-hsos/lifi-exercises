@@ -1,0 +1,54 @@
+---
+title: "Exercise 3: The Human Operator"
+author: Prof. Dr. Nicolas Meseth
+---
+
+## Overview
+
+In the third exercise of the LiFi-project ...
+
+Here are the relevant sections of the online script. Make sure you read everything carefully in order to solve this exercise:
+
+-   [8 - The Binary System](https://lifi.datalit.de/lifi-project/the-binary-system)
+-   [6 - The Rotary Encoder](https://lifi.datalit.de/lifi-project/the-rotary-encoder)
+-   [7 - Human Input](https://lifi.datalit.de/lifi-project/human-input)
+
+## Your Tasks
+
+To pass this exercise, you must complete the following tasks and demonstrate the result in the examination interview.
+
+### 1. Colors by Menu
+
+
+### 2. Hexadecimal Conversion
+
+
+### 3. SOS with Morse Code
+
+------------------------------------------------------------------------
+
+## More Exercises to Practice
+
+The following tasks are for you to practice your skills. They are optional and not part of the submission or interview.
+
+### 4. Random Color Sequence (optional)
+
+
+### 5. Traffic Light (optional)
+
+
+------------------------------------------------------------------------
+
+## More Questions to Practice
+
+Try to answer the following questions to practice your understanding of the topics around the LiFi-project.
+
+### 6. Code Systems
+
+- ...
+
+
+
+## Submission and Interview
+
+For this exercise, please submit your working Python code via the designated submission folder in [ILIAS](https://lms.hs-osnabrueck.de).
