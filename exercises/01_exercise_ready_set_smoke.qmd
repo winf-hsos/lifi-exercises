@@ -1,5 +1,5 @@
 ---
-title: "Exercise 1: Hardware Assembly, Development Environment, and Smoke Test"
+title: "Exercise 1: Ready, Set, Smoke"
 author: Prof. Dr. Nicolas Meseth
 ---
 
