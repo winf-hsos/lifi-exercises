@@ -1,5 +1,5 @@
 ---
-title: "Exercise 2: Logic with the LED"
+title: "Exercise 2: Logic With The LED"
 author: Prof. Dr. Nicolas Meseth
 ---
 

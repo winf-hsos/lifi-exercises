@@ -1,17 +1,17 @@
 ---
-title: "Exercise 6: Back To SMS"
+title: "Exercise 7: Pixel By Pixel"
 author: Prof. Dr. Nicolas Meseth
 ---
 
 ## Overview
 
-In the sixth exercise of the LiFi-project ...
+In the seventh exercise of the LiFi-project ...
 
 Here are the relevant sections of the online script. Make sure you read everything carefully in order to solve this exercise:
 
--   [17 - Encoding Text](https://lifi.datalit.de/lifi-project/encoding-text)
--   [18 - Processing Text](https://lifi.datalit.de/lifi-project/processing-text)
--   [19 - Text Messages](https://lifi.datalit.de/lifi-project/text-messages)
+-   [20 - Digital Images](https://lifi.datalit.de/lifi-project/digital-images)
+-   [21 - Need More Speed](https://lifi.datalit.de/lifi-project/need-more-speed)
+-   [22 - Binary Images](https://lifi.datalit.de/lifi-project/binary-images)
 
 ## Your Tasks
 
@@ -46,7 +46,6 @@ Try to answer the following questions to practice your understanding of the topi
 ### 6. Measuring Information
 
 - ...
-
 
 
 ## Submission and Interview

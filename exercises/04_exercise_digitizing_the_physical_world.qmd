@@ -1,5 +1,5 @@
 ---
-title: "Exercise 4: Digitizing the Physical World"
+title: "Exercise 4: Digitizing The Physical World"
 author: Prof. Dr. Nicolas Meseth
 ---
 
