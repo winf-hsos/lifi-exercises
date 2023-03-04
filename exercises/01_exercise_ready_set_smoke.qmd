@@ -12,11 +12,10 @@ Here are the relevant sections of the online script. Make sure you read everythi
 - [1 - Hardware Assembly](https://lifi.datalit.de/lifi-project/hardware-assembly)
 - [2 - Development Environment](https://lifi.datalit.de/lifi-project/development-environment)
 - [3 - Smoke Test](https://lifi.datalit.de/lifi-project/smoke-test)
-- [4 - Programs](https://lifi.datalit.de/lifi-project/programs)
 
 ## Your Tasks
 
-To pass this exercise, you must complete the following tasks and demonstrate the result in the examination interview.
+To pass this exercise, you must complete the following tasks and submit your results via [ILIAS](https://lms.hs-osnabrueck.de). You find the details on the form of submission at the end of this document.
 
 ### 1. Assemble the Hardware
 
@@ -47,22 +46,31 @@ Finally, you should run a number of tests to check your hardware and software se
 
 *b) with a Python program*
 
-1.  Check out the LiFi GitHub repository.
+1.  Check out the LiFi GitHub repository to download the `smoke_test.py` along with other code examples.
 
-2.  Open the file `smoke_test.py` in Visual Studio Code.
+2. Adjust the UID in the `examples/constants.py` file to reflect your devices.
 
-3.  Run the program from a terminal and check the output for errors.
+2.  Open the file `examples/smoke_test.py` in Visual Studio Code.
 
-## Submission and Interview
+3.  Run the program from a terminal and check the output for potential errors.
 
-For your first exercise, please submit one or more photos of your assembled hardware kit via the designated submission folder in [ILIAS](https://lms.hs-osnabrueck.de).
+## More Exercises To Practice
 
-For the exam interview, please bring the assembled hardware kit along with your computer with the development environment installed and configured. You will need to demonstrate that:
+The following tasks are for you to practice your skills. They are optional and not part of the submission.
 
--   You can connect to your hardware kit from the Brick Viewer software.
+### 4. Play around with LiFi Example Code
 
--   You have a working development environment consisting of the latest version of Visual Studio Code, Python and Git.
+For your development environment, you also installed Git on your computer. Git can be used to download code from platforms like GitHub to your local computer. For this course, many code examples (including the `smoke_test.py`) are provided via a GitHub repository. In the folder `/examples`, you will find scripts to see how each of the hardware devices can be programmed. Take look at them and see if you can run them.
 
--   You can connect to your hardware kit from the provided Python program.
+
+## Submission {#sec-submission}
+
+For your first exercise, please submit:
+
+- One or more photos of your assembled hardware kit as well as 
+
+- A screenshot from your computer in which the `smoke_test.py` is opened in Visual Studio Code and the terminal shows a successful smoke test run.  
+
+Submit all files via the corresponding exercise in [ILIAS](https://lms.hs-osnabrueck.de).
 
 Only if you master this exercise are you ready for the next steps in the LiFi-project!

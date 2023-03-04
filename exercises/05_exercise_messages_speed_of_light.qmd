@@ -1,5 +1,5 @@
 ---
-title: "Exercise 5: Messages at the Speed of Light"
+title: "Exercise 5: Messages At The Speed Of Light"
 author: Prof. Dr. Nicolas Meseth
 ---
 

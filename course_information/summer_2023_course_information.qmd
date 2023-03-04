@@ -1,0 +1,142 @@
+---
+title: "Wichtige Informationen zum Modul"
+subtitle: "Wirtschaftsinformatik | SS 2023"
+date: last-modified
+date-format: long
+author: 
+  - Prof. Dr. Nicolas Meseth
+  - Philipp Zmijewski
+number-sections: true
+lang: de
+language:
+  de:
+    crossref-sec-prefix: "Abschnitt"
+---
+
+## Didaktisches Konzept
+
+### Problem-basiertes Lernen
+
+Wir setzen in diesem Modul die didaktische Methode des *problem-basierten Lernens* ein. Es wird zu Beginn des Semesters eine komplexe Problemstellung in Form eines Projekts vorgestellt, für die ihr eine Lösung entwickeln sollt. Die dafür notwendigen Kenntnisse und Fähigkeiten fehlen euch am Anfang und ihr müsst sie im Verlauf des Semesters über die Bearbeitung des Projekts erwerben.
+
+Das zu lösende Problem in diesem Modul ist das sogenannte LiFi-Project. Alle Informationen zu dem Projekt sind auf der Webseite zu finden: [Zur Webseite des LiFi-Projekts](http://lifi.datalit.de/).
+
+### Hohe Anforderungen, Motivation und viel Unterstützung
+
+Wir stellen in diesem Modul bewusst hohe Anforderungen an euch. Uns ist bewusst, dass die allermeisten von euch in diesem Modul zum ersten Mal in Kontakt mit der Programmierung kommen werden. Gleichzeitig zeigt uns die Erfahrung der vergangenen Jahre, dass beim Thema Digitalisierung zwar eine hohe Nutzungsaffinität (Laptops, Smartphones, Smart Home) vorhanden ist, die Hintergründe aber weitestgehend unbekannt sind. Mit den beiden Kernthemen Programmierung und Digitalisierung werden somit zwei für meisten gänzlich neue Themenfelder erschlossen. Das bezeichnen wir als Herausforderung.
+
+Gleichzeitig ist eine Herausforderung der Schlüssel zum Lernerfolg. Das gilt aber nur dann, wenn die Situation nicht auswegslos erscheint und gleichzeit eine hohe Motivation erzeugt werden kann. Letzteres schaffen wir, so die Hoffnung, durch ein praxisnahes Projekt mit einer erlebbaren, haptischen Hardware-Komponente sowie einer semesterübergreifenden Abfolge von Erfolgs- und Aha-Erlebnissen durch Übungsaufgaben. Dem Eindruck der Auswegslosigkeit versuchen wir durch ein umfassendes Unterstützungsangebot entgegenzuwirken (s. @sec-expectation-support).
+
+### Inverted Classroom
+
+Wir orientieren uns in diesem Modul an der Idee des *Inverted Classroom*. Die Sitzungen am Donnerstag werden keine klassischen Vorlesungen sein, in denen ihr uns passiv zuhört. Stattdessen werden wir gemeinsam an Übungen arbeiten, Fragen klären und gemeinsam diskutieren. Das erfordert allerdings, dass ihr gut vorbereitet seid (s. @sec-expectation) und die relevanten Abschnitte im LiFi-Projekt bearbeitet habt. 
+
+### Ablauf 
+
+#### 2-wöchige verpflichtende Testate
+
+Das LiFi-Projekt und die darin enthaltenen verpflichtenden Testataufgaben bestimmen in großem Maße den Ablauf des Semesters. Der Bearbeitungszeitraum einer neuen Testataufgabe beginnt jeweils um 8 Uhr mit einer Donnerstagssitzung, in der die Aufgabe vorgestellt wird. Das ist auch der Startschuss für die zu dieser Testataufgabe gehörigen Themen des LiFi-Projekst, die ihr weitestgehend eigenständig und im Selbststudium studiert. Zwei Wochen später folgt der Abgabetermin, der normalerweise mittwochs um 12 Uhr ist. In der darauf folgenden Sitzung am Donnerstag nutzen wir die erste Hälfte für die Besprechung der Ergebnisse und stellen anschließend die neue Testataufgabe vor. Der Zyklus wiederholt sich.
+
+![](testat_cycle.png)
+
+#### Blick auf das gesamte Semester
+
+Der oben beschriebene 2-wöchige Zyklus wiederholt sich über das gesamte Semester. Mit jeder bestandenen Testataufgabe kommt ihr dem Ziel einen Schritt näher. Der Abgabetermin für die letze verpflichtende Testataufgabe liegt kurz vor dem Ende des Vorlesungszeitraums. Solltet ihr die letzten beiden Testate abgeben wollen oder müssen, so habt ihr die letzte Woche der Vorlesungen dafür Zeit. Zu Beginn des Prüfungszeitraums finden die mündlichen Prüfungen statt. Das genaue Datum wird im Laufe des Semesters bekanntgegeben.
+
+## Lernziele
+
+Die Lernziele des Moduls decken sich mit den Lernzielen des LiFi-Projekts und sind auf der [Webseite im Abschnitt "Overview"](https://lifi.datalit.de/course-overview#learning-objectives) beschrieben.
+
+## Curriculum
+
+Das LiFi-Projekt wurde für entwickelt, um die Inhalte dieser Veranstaltung über das problem-basierte Lernen einzuführen. Das Curriculum wird somit durch das [LiFi-Projekt](https://lifi.datalit.de/) vorgegeben.
+
+## Erwartungen und Unterstützungsangebot {#sec-expectation-support}
+
+### Was wir von Euch erwarten {#sec-expectation}
+
+Der Begriff *Studium* stammt vom lateinischen Word *studere*, was übersetzt **"sich um etw. bemühen, etw. betreiben, nach etw. streben, trachten"** bedeutet. Das fasst unsere Erwartungen an euch gut zusammen.
+
+Was bedeutet das konkret für dieses Modul? Ein Studium ist dem Ursprung des Wortes nach etwas, das man aktiv betreiben muss. Das gilt für das Studium an sich, aber auch für jedes einzelne Modul. Wir leiten daraus folgende Grundsätze und Erwartungen an euch ab:
+
+-   **Ihr übernehmt die Verantwortung für euren Lernprozess und Lernerfolg**: Bildlich gesprochen habt ihr das Lenkrad in beiden Händen und seid für euren Lernerfolg verantwortlich. Niemand sonst. Ihr entscheidet, wohin ihr fahren wollt.
+
+-   **Ihr macht Fehler und lernt daraus**: Fehler gehören zum Lernen dazu. Wenn ihr viel ausprobiert, könnt ihr auch viel falsch machen. Aber ihr werdet dabei auch viel lernen. Das Studium ist der ideale Ort für Fehler. Traut euch also Dinge zu, die schwierig erscheinen. Es kann nichts passieren.
+
+-   **Ihr beschäftigt euch aktiv mit den Inhalten**: Lernen funktioniert nicht durch *Konsum* von mundgerecht aufbereitetem Wissen, sondern ist ein *aktiver und konstruktiver Prozess*. Wissen muss in euren Köpfen *entstehen*, niemand kann es dort injizieren. Fähigkeiten können nur durch wiederholte Übung ausgebildet werden. Jede und jeder von euch lernt unterschiedlich: Zu anderen Zeiten, mit anderen Medien, mit schneller oder lansamer. Aber das entscheidet alles ihr. Ihr entscheidet, wann, mit welchem Auto und wie schnell ihr fahrt. Aber egal welcher Lerntyp ihr seid, die aktive und wiederholte Auseinandersetzung mit einem Thema ist essenziell, um ein nachhaltiges Verständnis aufzubauen und es gänzlich zu durchdringen. Das gilt unserer Erfahrung nach für Themen der Digitalisierung und Programmierung in besonderem Maße. Es ist etwas anderes, ob euch jemand einen Weg beschreibt und auf der Karte zeigt, oder ob ihr diesen Weg selbst fahrt. Es ist noch etwas anderes, wenn ihr das selbe Ziel öfters und auf verschiedenen Routen erreicht. Danach werdet ihr die Umgebung und das Terrain sehr gut kennen.
+
+-   **Ihr nutzt die bereitgestellten Inhalte. Das schließt auch die Literatur ein**: Habt das Ziel im Blick, aber schaut auch Links und Rechts. Es schadet nichts, dass ihr ein Buchkapitel zu viel lest, wenn es dafür euren Horizont erweitert. Ein kleiner Umweg auf eurer Fahrt kann euch zu spannenden Orten führen - manchmal sogar spannender als eurer eigentliches, ursprüngliches Ziel.
+
+-   **Ihr holt euch Hilfe, fragt eure Kommilliton\*innen und nutzt die vielfältigen Angebote proaktiv**: Lernerfolg bedingt, dass ihr euch eigenständig mit einem Thema auseinandersetzt. Dazu verwendet ihr primär die bereitgestellten Inhalte, wie das Online-Skript oder die genannte Literatur. Speziell für Programmieraufgaben kommen hier auch Werkzeuge wie Google, ChatGPT oder Stackoverflow infrage. Solltet ihr damit nicht weiterkommen, holt ihr euch aktive Hilfe. Denkt immer daran: *Ihr* seid für euren Lernprozess verantwortlich, nicht wir oder sonst wer. Wenn ihr euch verfahren habt, fragt jemanden um Hilfe.
+
+### Wir wir unsere Rolle verstehen
+
+Wenn die Studierenden für ihren Lernprozess verantwortlich sind, wofür sind wir dann zuständig? Wenn ihr am Lenkrad sitzt und fahrt, wo kommen wir ins Spiel? Durch die folgenden Punkte fassen wir unsere Rolle zusammen:
+
+- **Wir geben eurem Lernprozess einen Raum und einen Rahmen**: Wir stellen sicher, dass Lernen im Kontex dieses Moduls stattfinden kann. Das beginnt dabei, dass wir einen geeigneten Raum mit passender Technik auswählen. Wir stellen sicher, dass ihr möglichst orts- und zeitunabhängig seid, indem wir jedem die notwendige Hardware und Software an die Hand geben, indem wir die Sitzungen hybrid anbieten und aufzeichnen, indem wir Sprechstunden anbieten. In der Metapher von oben: Wir bauen Straßen, erschaffen Brücken und Tunnel, betreiben Tankstellen und Werkstätten, damit es euch möglich ist, euer Ziel zu erreichen.
+
+- **Wir geben Struktur, die ihr mit Leben füllt**: Wir geben dem, was ihr in diesem Modul lernen sollt, eine Struktur. Strukturen erlauben Orientierung und diese ist wichtig, um das Ganze nicht aus dem Blick zu verlieren. Wir sind die Land- und Straßenkarte, aber auch die Wegweiser, Orts- und Straßenschilder. Wir sind aber kein Navigationssystem wie etwa Google Maps. Wir geben euch den Weg nicht vor oder optimieren ihn für euch. Wir geben euch einen Überblick über verschiedene Routen und wir zeigen euch die Richtung zu verschiedenen Zielen. Hinfahren müsst ihr selbst, um die Schönheit der Wiesen, Felder, Berge, Flüsse und Städte zu erfahren, die auf dem Weg zu eurem Ziel auf euch warten.
+
+- **Wir bewerten euren Lernerfolg**: Am Ende sind wir auch in der Roller der Prüfer, die beurteilen müssen, ob ihr die gesetzten Lernziele erfolgreich erreicht habt. Da wir mit dem LiFi-Projekt ein großes Ziel vor Augen haben, wollen wir euch vorher schon die Sicherheit geben, auf dem richtigen Weg zu sein. Deshalb begleiten wir das Modul mit einer eng getakteten Abfolge von Testataufgaben. Jede bestandene Aufgabe bescheinigt euch, dass ihr dem Ziel ein Stück näher gekommen seid.
+
+### Welche Unterstützung wir anbieten
+
+Um der hohen Anforderung gerecht zu werden, ist dieses Modul von einem intensiven Unterstützungsangebot gekennzeichnet:
+
+-   Eine wöchentliche Präsenzzeit (physisch und online via Zoom, auch *hybrid* genannt) immer donnerstags von 8 - 11:15 Uhr.
+
+-   Die Aufzeichnung aller Donnerstagssitzungen und zeitnahe Bereitstellung über OpenCast (ILIAS).
+
+-   Eine Online-Sprechstunde via Zoom immer montags bis mittwochs von 16 - 17 Uhr. Eine vorherige Buchung eines Zeitslots über ILIAS ist notwendig.
+
+-   24/7 Kontaktmöglichkeit über MS Teams. Ihr könnt hier jederzeit Fragen stellen, wann wir antworten entscheiden wir nach Kapazität. Ihr habt eine Antwort auf eine Frage einer Kommilitonin? Umso besser, schreibt sie in den Teamraum.
+
+-   Ein strukturiertes [Online-Skript für das LiFi-Projekt](https://lifi.datalit.de/) mit weiterführenden Übungsaufgaben, Videos, Links, Literatur und vielem mehr.
+
+## Prüfungsleistung
+
+### Testate und mündliche Prüfung
+
+Die Prüfungsleistung in diesem Modul besteht aus zwei Teilen:
+
+1.  Das Bestehen von insgesamt 1 + 7 Übungsaufgaben (der Steckbrief zu Beginn + 7 inhaltiche Übungen, *Testate* genannt), die im Abstand von 1-2 Wochen veröffentlicht und zu vorgegebenen Abgabeterminen eingereicht werden müssen. Die genauen Zeiträume sind in ILIAS einsehbar. Die Bearbeitung der Aufgaben erfolgt in Partnerarbeit. Die Teams bleiben über das gesamte Semester konstant.
+
+2.  Eine mündliche Prüfung zu Beginn des offziellen Prüfungszeitraums. Voraussetzung für die Teilnahme an dieser Prüfung ist das Bestehen aller 8 Testataufgaben.
+
+Zusätzlich zu den 8 verplichtenden Aufgaben gibt es 2 optionale Aufgaben. Diese werden eine Woche vor dem Ende der Vorlesungen freigeschaltet und können unterschiedlichen Zwecken dienen:
+
+-   Nachholen einer nicht bestandenen Pflichtaufgabe, um die Zulassung für die mündliche Prüfung zu bekommen.
+
+-   Sammeln von Bonuspunkten, die bei der Bewertung der mündlichen Prüfung mit einbezogen werden.
+
+-   Noch mehr hands-on über Digitalisierung und Programmierung lernen!
+
+### Möglichkeiten für Bonuspunkte
+
+Es gibt in diesem Modul keinen Anspruch auf Bonuspunkte. Dennoch wollen wir euch die Möglichkeit geben, im Vorfeld der mündlichen Prüfung ein wenig vorzuarbeiten. Folgendes zählen wir dazu:
+
+- Ihr bearbeitet die optionalen Übungsaufgaben am Endes des Projekts. Eine erfolgreiche Bearbeitung kann bei Nichtbestehen einer verpflichtenden Aufgabe sogar notwendig sein. Solltet ihr sie aber nicht zwingend benötigen, wir sie trotzdem nicht zu eurem Nachteil sein.
+
+- Die Sitzungen sind durch Interaktivität geprägt und leben davon, dass ihr gut vorbereitet seid. Noch besser ist, wenn ihr aktiv zur Sitzung beitragt, etwa durch Fragen oder Beiträge zu Übungen. Besondere Bemühungen versuchen wir am Ende des Semesters zu berücksichtigen.
+
+- Wir fördern und fordern die aktive Unterstützung von Studierenden durch Studierende. Wir schauen hin, wer auf MS Teams die Fragen der anderen beantwortert.
+
+### Anmeldung
+
+Wie in jedem Modul müsst ihr euch während der Anmeldephase für die Prüfung in diesem Modul anmelden. Der Zeitraum für die Prüfungsanmeldung wird zentral per E-Mail an alle Studierenden kommuniziert und liegt im Sommer normalerweise im Mai.
+
+## FAQ {.unnumbered}
+
+### Warum ist das LiFi-Projekt auf Englisch? {.unnumbered}
+
+- Sämtliche Literaturquellen sind in englischer Sprache verfasst und Englisch ist die primäre Sprache in der Informatik und der Programmierung. Eine Übersetzung der englischen Fachbegriffe wäre unangebracht, weil die meisten auch im Deutschen in ihrer englischen Variante verwendet werden.
+
+- Das LiFi-Projekt ist nicht nur für diese Veranstaltung die Grundlage, sondern wird auch in einem anderen, englischsprachigen Modul verwendet. Ein zweisprachiges Angebot bedeutet einen unverhältnismäßig hohen Aufwand, besonders weil sich in den nächsten Jahren noch viel verändern wird.
+
+- Englisch zu lernen schadet niemandem, ganz im Gegenteil.
+
+### Was passiert, wenn mein Partner oder meine Partnerin aus dem Modul ausscheidet?
+
+Das kann immer passieren. Kommt bitte in diesem Fall in [meine offene Online-Sprechstunde](https://www.hs-osnabrueck.de/prof-dr-nicolas-meseth/) und wir finden eine Lösung.
+
+

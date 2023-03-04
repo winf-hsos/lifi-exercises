@@ -15,15 +15,15 @@ Here are the relevant sections of the online script. Make sure you read everythi
 
 ## Your Tasks
 
-To pass this exercise, you must complete the following tasks and demonstrate the result in the examination interview.
+To pass this exercise, you must complete the following tasks and submit your results via [ILIAS](https://lms.hs-osnabrueck.de). You find the details on the form of submission at the end of this document.
 
-### 1. Colors by Menu
+### 1. Colors By Menu
 
 In the LiFi prototype, the LED will act as the sender of information. This requires frequent changes of the LED's color and turning it off at times. To practice this, create a program that changes the LED's color based on the user's keyboard input. More specifically:
 
 -   Write a program that initially turns off the LED and then waits for the user to enter a key on the keyboard and confirm the input with the enter key.
 
--   The input can be any of the following letter: "r", "g", "b", "y", or one of the keywords "off" or "exit". All other input is invalid and should result in an error message: *"Invalid input. Please type either r, g, b, y, or off/exit."*
+-   The input can be any of the following letters: "r", "g", "b", "y", or one of the keywords "off" or "exit". All other input is invalid and should result in an error message: *"Invalid input. Please type either r, g, b, y, or off/exit."*
 
 -   Each of the four letters represents a color (r = red, g = green, b = blue, y = yellow) to which the LED should be set after the user confirms her choice with the enter key.
 
@@ -44,13 +44,13 @@ print(dec)
 # 255
 ```
 
-### 3. SOS with Morse Code
+### 3. SOS With Morse Code
 
 Write a program that reads a text sequence containing only capital letters from A-Z from the keyboard and translates it into Morse code. The result should be emitted using the LED. Choose any color you like. Select a unit length that allows a trained human to decode the message. 
 
 ------------------------------------------------------------------------
 
-## More Exercises to Practice
+## More Exercises To Practice
 
 The following tasks are for you to practice your skills. They are optional and not part of the submission or interview.
 
@@ -70,7 +70,7 @@ holds true.
 
 ------------------------------------------------------------------------
 
-## More Questions to Practice
+## More Questions To Practice
 
 Try to answer the following questions to practice your understanding of the topics around the LiFi-project.
 
@@ -82,10 +82,13 @@ Try to answer the following questions to practice your understanding of the topi
 
 - We did not always enjoy the full 16,777,216 colors on our computer screens. Do some research on how color codes evolved over the history of digital computers. Can you find some screenshots from long gone times?
 
-- Is Morse code a binary code system?
+- What is a *variable bit-length* code?
+
+- Is Morse code a binary code? 
+
+- How many bits does Braille code us to represent a symbol? Is Braille code a binary code?
 
 
-
-## Submission and Interview
+## Submission
 
 For this exercise, please submit your working Python code via the designated submission folder in [ILIAS](https://lms.hs-osnabrueck.de).
