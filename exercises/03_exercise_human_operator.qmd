@@ -3,51 +3,58 @@ title: "Exercise 3: The Human Operator"
 author: Prof. Dr. Nicolas Meseth
 ---
 
-## Overview
+::: {.callout-note appearance="simple"}
+## Come Back Later
 
-In the third exercise of the LiFi-project ...
+Great, you're ambitious and want to see what's awating you in this exercise! But you are ahead of your time - please check back later.
+:::
+
+## OVERVIEW
+
+In the third exercise of the LiFi-project...
 
 Here are the relevant sections of the online script. Make sure you read everything carefully in order to solve this exercise:
 
--   [8 - The Binary System](https://lifi.datalit.de/lifi-project/the-binary-system)
--   [9 - The Rotary Encoder](https://lifi.datalit.de/lifi-project/the-rotary-encoder)
--   [10 - Human Input](https://lifi.datalit.de/lifi-project/human-input)
+-   [7 - Binary Numbers](https://lifi.datalit.de/lifi-project/binary-numbers)
+-   [8 - The Rotary Encoder](https://lifi.datalit.de/lifi-project/the-rotary-encoder)
+-   [9 - Human Input](https://lifi.datalit.de/lifi-project/human-input)
 
-## Your Tasks
+Good Luck!
 
-To pass this exercise, you must complete the following tasks and submit your results via [ILIAS](https://lms.hs-osnabrueck.de). You find the details on the form of submission at the end of this document.
+## YOUR TASKS
 
-### 1. Colors by Menu
+To pass this exercise, you must complete the following tasks and submit your results via [ILIAS](https://lms.hs-osnabrueck.de). You find the details on the form of submission below.
 
+### 1. ...
 
-### 2. Hexadecimal Conversion
+### 2. ...
 
+### 3. ...
 
-### 3. SOS with Morse Code
+## SUBMISSION
 
-------------------------------------------------------------------------
+For this exercise, please submit:
 
-## More Exercises To Practice
+-   `...`
 
-The following tasks are for you to practice your skills. They are optional and not part of the submission or interview.
+-   `...`
 
-### 4. Random Color Sequence (optional)
+-   `...`
 
+Submit all files via the corresponding exercise in [ILIAS](https://lms.hs-osnabrueck.de).
 
-### 5. Traffic Light (optional)
+{{< pagebreak >}}
 
+## MORE EXERCISES TO PRACTICE
 
-------------------------------------------------------------------------
+The following tasks are for you to practice your skills. They are optional and not part of the submission.
 
-## More Questions To Practice
+### ...
 
-Try to answer the following questions to practice your understanding of the topics around the LiFi-project.
+### ...
 
-### 6. Code Systems
+## MORE QUESTIONS TO PRACTICE
 
-- ...
+Try to answer the following questions to practice your understanding of the topics around the LiFi-project. The questions are optional and not part of the submission.
 
-
-## Submission
-
-For this exercise, please submit your working Python code via the designated submission folder in [ILIAS](https://lms.hs-osnabrueck.de).
+-   ...

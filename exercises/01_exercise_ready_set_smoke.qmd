@@ -3,19 +3,21 @@ title: "Exercise 1: Ready, Set, Smoke"
 author: Prof. Dr. Nicolas Meseth
 ---
 
-## Overview
+## OVERVIEW
 
-In your first exercise, you make sure that you have everything you need to start with the LiFi-project. This includes the **hardware kit**, which requires some assembly, as well as a **development environment** on your computer. You apply different **smoke tests** to both.
+In your first exercise, you make sure that you have everything you need to start with the LiFi-project. This includes the **hardware kit**, which requires some assembly, as well as a **development environment** on your computer. Finally, you run two different **smoke tests**.
 
 Here are the relevant sections of the online script. Make sure you read everything carefully in order to solve this exercise:
 
-- [1 - Hardware Assembly](https://lifi.datalit.de/lifi-project/hardware-assembly)
-- [2 - Development Environment](https://lifi.datalit.de/lifi-project/development-environment)
-- [3 - Smoke Test](https://lifi.datalit.de/lifi-project/smoke-test)
+-   [1 - Hardware Assembly](https://lifi.datalit.de/lifi-project/hardware-assembly)
+-   [2 - Development Environment](https://lifi.datalit.de/lifi-project/development-environment)
+-   [3 - Smoke Test](https://lifi.datalit.de/lifi-project/smoke-test)
 
-## Your Tasks
+Good Luck!
 
-To pass this exercise, you must complete the following tasks and submit your results via [ILIAS](https://lms.hs-osnabrueck.de). You find the details on the form of submission at the end of this document.
+## YOUR TASKS
+
+To pass this exercise, you must complete the following tasks and submit your results via [ILIAS](https://lms.hs-osnabrueck.de). You find the details on the form of submission below.
 
 ### 1. Assemble the Hardware
 
@@ -48,13 +50,26 @@ Finally, you should run a number of tests to check your hardware and software se
 
 1.  Check out the LiFi GitHub repository to download the `smoke_test.py` along with other code examples.
 
-2. Adjust the UID in the `examples/constants.py` file to reflect your devices.
+2.  Adjust the UID in the `examples/constants.py` file to reflect your devices.
 
-2.  Open the file `examples/smoke_test.py` in Visual Studio Code.
+3.  Open the file `examples/smoke_test.py` in Visual Studio Code.
 
-3.  Run the program from a terminal and check the output for potential errors.
+4.  Run the program from a terminal and check the output for potential errors.
 
-## More Exercises To Practice
+## SUBMISSION
+
+For your first exercise, please submit:
+
+-   One or more photos (.jpg or .png) of your assembled hardware kit
+
+-   A screenshot (.jpg or .png) from your computer in which the `smoke_test.py` is opened in Visual Studio Code and the terminal shows a successful smoke test run
+
+Submit all files via the corresponding exercise in [ILIAS](https://lms.hs-osnabrueck.de).
+
+{{< pagebreak >}}
+
+
+## MORE EXERCISES TO PRACTICE
 
 The following tasks are for you to practice your skills. They are optional and not part of the submission.
 
@@ -62,15 +77,13 @@ The following tasks are for you to practice your skills. They are optional and n
 
 For your development environment, you also installed Git on your computer. Git can be used to download code from platforms like GitHub to your local computer. For this course, many code examples (including the `smoke_test.py`) are provided via a GitHub repository. In the folder `/examples`, you will find scripts to see how each of the hardware devices can be programmed. Take look at them and see if you can run them.
 
+### 5. Check For Firmware Updates
 
-## Submission {#sec-submission}
+When you connect to your LiFi-hardware from the Tinkerforge Brick Viewer, you can check if all device's firmware is up-to-date. Run this check and update any devices if needed.
 
-For your first exercise, please submit:
 
-- One or more photos of your assembled hardware kit as well as 
+## MORE QUESTIONS TO PRACTICE
 
-- A screenshot from your computer in which the `smoke_test.py` is opened in Visual Studio Code and the terminal shows a successful smoke test run.  
+Try to answer the following questions to practice your understanding of the topics around the LiFi-project. The questions are optional and not part of the submission.
 
-Submit all files via the corresponding exercise in [ILIAS](https://lms.hs-osnabrueck.de).
-
-Only if you master this exercise are you ready for the next steps in the LiFi-project!
+-   Do you know what the *firmware* of a hardware device is? Research the term and explain why we need it in your own words!

@@ -3,19 +3,21 @@ title: "Exercise 2: Logic With The LED"
 author: Prof. Dr. Nicolas Meseth
 ---
 
-## Overview
+## OVERVIEW
 
-In the second exercise ...
+In the third exercise of the LiFi-project, you'll start programming using the LED and you'll deepen your understanding of code systems.
 
 Here are the relevant sections of the online script. Make sure you read everything carefully in order to solve this exercise:
 
--   [5 - The LED](https://lifi.datalit.de/lifi-project/the-led)
+-   [4 - The LED](https://lifi.datalit.de/lifi-project/the-led)
+-   [5 - Program's Anatomy](https://lifi.datalit.de/lifi-project/programs-anatomy)
 -   [6 - Code Systems](https://lifi.datalit.de/lifi-project/code-systems)
--   [7 - Morse Code](https://lifi.datalit.de/lifi-project/morse-code)
 
-## Your Tasks
+Good Luck!
 
-To pass this exercise, you must complete the following tasks and submit your results via [ILIAS](https://lms.hs-osnabrueck.de). You find the details on the form of submission at the end of this document.
+## YOUR TASKS
+
+To pass this exercise, you must complete the following tasks and submit your results via [ILIAS](https://lms.hs-osnabrueck.de). You find the details on the form of submission below.
 
 ### 1. Colors By Menu
 
@@ -46,21 +48,35 @@ print(dec)
 
 ### 3. SOS With Morse Code
 
-Write a program that reads a text sequence containing only capital letters from A-Z from the keyboard and translates it into Morse code. The result should be emitted using the LED. Choose any color you like. Select a unit length that allows a trained human to decode the message. 
+Write a program that reads a text sequence containing only capital letters from A-Z from the keyboard and translates it into Morse code. The result should be emitted using the LED. Choose any color you like. Select a unit length that allows a trained human to decode the message.
 
-------------------------------------------------------------------------
+## SUBMISSION
 
-## More Exercises To Practice
+For this exercise, please submit:
 
-The following tasks are for you to practice your skills. They are optional and not part of the submission or interview.
+-   Three Python programs, each in a separate file for the tasks above:
 
-### 4. Random Color Sequence (optional)
+    -   `color_by_menu.py`
+
+    -   `hexadecimal_conversion.py`
+
+    -   `sos.py`
+
+Submit all files via the corresponding exercise in [ILIAS](https://lms.hs-osnabrueck.de).
+
+{{< pagebreak >}}
+
+## MORE EXERCISES TO PRACTICE
+
+The following tasks are for you to practice your skills. They are optional and not part of the submission.
+
+### 4. Random Color Sequence
 
 Write a program that randomly chooses a color from the RGB spectrum and sets the LED to that color for a constant duration $d$. The program should change the LED's color a configurable number of times until it exits.
 
 What happens when all RGB values are very small by chance? How could you prevent this from happening and improve the program?
 
-### 5. Traffic Light (optional)
+### 5. Traffic Light
 
 Write a program that simulates the LED as a traffic light. The traffic light should start with a red-phase that lasts $d_{red}$ seconds. The red-phase is followed by a transition-phase from red to green, where the LED turns orange for $d_{orange}$ seconds before it turns green and enters the green-phase. The green-phase lasts $d_{green}$ seconds and is yet again followed by a transition-phase, this time from green to red. The orange light again lasts for $d_{orange}$ seconds. Choose useful values for the three duration parameters $d_{red}$, $d_{green}$, and $d_{yellow}$. Make sure that
 
@@ -68,27 +84,20 @@ $$d_{red} > d_{green} > d_{orange}$$
 
 holds true.
 
-------------------------------------------------------------------------
+## MORE QUESTIONS TO PRACTICE
 
-## More Questions To Practice
-
-Try to answer the following questions to practice your understanding of the topics around the LiFi-project.
+Try to answer the following questions to practice your understanding of the topics around the LiFi-project. The questions are optional and not part of the submission.
 
 ### 6. Code Systems
 
-- How many colors could we encode if we used only 7 bits instead of 8 for each of the base colors red, green, and blue?
+-   How many colors could we encode if we used only 7 bits instead of 8 for each of the base colors red, green, and blue?
 
-- Would it make sense to create an extended version of the RGB code that adds an extra byte for each of the base colors? How many colors would we be able to encode then? Find arguments for and against this idea!
+-   Would it make sense to create an extended version of the RGB code that adds an extra byte for each of the base colors? How many colors would we be able to encode then? Find arguments for and against this idea!
 
-- We did not always enjoy the full 16,777,216 colors on our computer screens. Do some research on how color codes evolved over the history of digital computers. Can you find some screenshots from long gone times?
+-   We did not always enjoy the full 16,777,216 colors on our computer screens. Do some research on how color codes evolved over the history of digital computers. Can you find some screenshots from long gone times?
 
-- What is a *variable bit-length* code?
+-   What is a *variable bit-length* code?
 
-- Is Morse code a binary code? 
+-   Is Morse code a binary code?
 
-- How many bits does Braille code us to represent a symbol? Is Braille code a binary code?
-
-
-## Submission
-
-For this exercise, please submit your working Python code via the designated submission folder in [ILIAS](https://lms.hs-osnabrueck.de).
+-   How many bits does Braille code us to represent a symbol? Is Braille code a binary code?

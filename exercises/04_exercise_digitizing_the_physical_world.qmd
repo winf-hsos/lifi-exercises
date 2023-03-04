@@ -3,52 +3,58 @@ title: "Exercise 4: Digitizing The Physical World"
 author: Prof. Dr. Nicolas Meseth
 ---
 
-## Overview
+::: {.callout-note appearance="simple"}
+## Come Back Later
+
+Great, you're ambitious and want to see what's awating you in this exercise! But you are ahead of your time - please check back later.
+:::
+
+## OVERVIEW
 
 In the fourth exercise of the LiFi-project ...
 
 Here are the relevant sections of the online script. Make sure you read everything carefully in order to solve this exercise:
 
--   [11 - Sensing Light](https://lifi.datalit.de/lifi-project/sensing-light)
--   [12 - The Color Sensor](https://lifi.datalit.de/lifi-project/the-color-sensor)
--   [13 - Digitization](https://lifi.datalit.de/lifi-project/digitization)
+-   [10 - Sensing Light](https://lifi.datalit.de/lifi-project/sensing-light)
+-   [11 - The Color Sensor](https://lifi.datalit.de/lifi-project/the-color-sensor)
+-   [12 - Digitization](https://lifi.datalit.de/lifi-project/digitization)
 
-## Your Tasks
+Good Luck!
 
-To pass this exercise, you must complete the following tasks and demonstrate the result in the examination interview.
+## YOUR TASKS
 
-### 1. Colors by Menu
+To pass this exercise, you must complete the following tasks and submit your results via [ILIAS](https://lms.hs-osnabrueck.de). You find the details on the form of submission below.
 
+### 1. ...
 
-### 2. Hexadecimal Conversion
+### 2. ...
 
+### 3. ...
 
-### 3. SOS with Morse Code
+## SUBMISSION
 
-------------------------------------------------------------------------
+For this exercise, please submit:
 
-## More Exercises to Practice
+-   `...`
 
-The following tasks are for you to practice your skills. They are optional and not part of the submission or interview.
+-   `...`
 
-### 4. Random Color Sequence (optional)
+-   `...`
 
+Submit all files via the corresponding exercise in [ILIAS](https://lms.hs-osnabrueck.de).
 
-### 5. Traffic Light (optional)
+{{< pagebreak >}}
 
+## MORE EXERCISES TO PRACTICE
 
-------------------------------------------------------------------------
+The following tasks are for you to practice your skills. They are optional and not part of the submission.
 
-## More Questions to Practice
+### ...
 
-Try to answer the following questions to practice your understanding of the topics around the LiFi-project.
+### ...
 
-### 6. Code Systems
+## MORE QUESTIONS TO PRACTICE
 
-- ...
+Try to answer the following questions to practice your understanding of the topics around the LiFi-project. The questions are optional and not part of the submission.
 
-
-
-## Submission and Interview
-
-For this exercise, please submit your working Python code via the designated submission folder in [ILIAS](https://lms.hs-osnabrueck.de).
+-   ...
