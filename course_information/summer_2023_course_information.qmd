@@ -7,6 +7,7 @@ author:
   - Prof. Dr. Nicolas Meseth
   - Philipp Zmijewski
 number-sections: true
+toc: true
 lang: de
 language:
   de:
@@ -29,9 +30,9 @@ Gleichzeitig ist eine Herausforderung der Schlüssel zum Lernerfolg. Das gilt ab
 
 ### Inverted Classroom
 
-Wir orientieren uns in diesem Modul an der Idee des *Inverted Classroom*. Die Sitzungen am Donnerstag werden keine klassischen Vorlesungen sein, in denen ihr uns passiv zuhört. Stattdessen werden wir gemeinsam an Übungen arbeiten, Fragen klären und gemeinsam diskutieren. Das erfordert allerdings, dass ihr gut vorbereitet seid (s. @sec-expectation) und die relevanten Abschnitte im LiFi-Projekt bearbeitet habt. 
+Wir orientieren uns in diesem Modul an der Idee des *Inverted Classroom*. Die Sitzungen am Donnerstag werden keine klassischen Vorlesungen sein, in denen ihr uns passiv zuhört. Stattdessen werden wir gemeinsam an Übungen arbeiten, Fragen klären und gemeinsam diskutieren. Das erfordert allerdings, dass ihr gut vorbereitet seid (s. @sec-expectation) und die relevanten Abschnitte im LiFi-Projekt bearbeitet habt.
 
-### Ablauf 
+### Ablauf
 
 #### 2-wöchige verpflichtende Testate
 
@@ -73,11 +74,11 @@ Was bedeutet das konkret für dieses Modul? Ein Studium ist dem Ursprung des Wor
 
 Wenn die Studierenden für ihren Lernprozess verantwortlich sind, wofür sind wir dann zuständig? Wenn ihr am Lenkrad sitzt und fahrt, wo kommen wir ins Spiel? Durch die folgenden Punkte fassen wir unsere Rolle zusammen:
 
-- **Wir geben eurem Lernprozess einen Raum und einen Rahmen**: Wir stellen sicher, dass Lernen im Kontex dieses Moduls stattfinden kann. Das beginnt dabei, dass wir einen geeigneten Raum mit passender Technik auswählen. Wir stellen sicher, dass ihr möglichst orts- und zeitunabhängig seid, indem wir jedem die notwendige Hardware und Software an die Hand geben, indem wir die Sitzungen hybrid anbieten und aufzeichnen, indem wir Sprechstunden anbieten. In der Metapher von oben: Wir bauen Straßen, erschaffen Brücken und Tunnel, betreiben Tankstellen und Werkstätten, damit es euch möglich ist, euer Ziel zu erreichen.
+-   **Wir geben eurem Lernprozess einen Raum und einen Rahmen**: Wir stellen sicher, dass Lernen im Kontex dieses Moduls stattfinden kann. Das beginnt dabei, dass wir einen geeigneten Raum mit passender Technik auswählen. Wir stellen sicher, dass ihr möglichst orts- und zeitunabhängig seid, indem wir jedem die notwendige Hardware und Software an die Hand geben, indem wir die Sitzungen hybrid anbieten und aufzeichnen, indem wir Sprechstunden anbieten. In der Metapher von oben: Wir bauen Straßen, erschaffen Brücken und Tunnel, betreiben Tankstellen und Werkstätten, damit es euch möglich ist, euer Ziel zu erreichen.
 
-- **Wir geben Struktur, die ihr mit Leben füllt**: Wir geben dem, was ihr in diesem Modul lernen sollt, eine Struktur. Strukturen erlauben Orientierung und diese ist wichtig, um das Ganze nicht aus dem Blick zu verlieren. Wir sind die Land- und Straßenkarte, aber auch die Wegweiser, Orts- und Straßenschilder. Wir sind aber kein Navigationssystem wie etwa Google Maps. Wir geben euch den Weg nicht vor oder optimieren ihn für euch. Wir geben euch einen Überblick über verschiedene Routen und wir zeigen euch die Richtung zu verschiedenen Zielen. Hinfahren müsst ihr selbst, um die Schönheit der Wiesen, Felder, Berge, Flüsse und Städte zu erfahren, die auf dem Weg zu eurem Ziel auf euch warten.
+-   **Wir geben Struktur, die ihr mit Leben füllt**: Wir geben dem, was ihr in diesem Modul lernen sollt, eine Struktur. Strukturen erlauben Orientierung und diese ist wichtig, um das Ganze nicht aus dem Blick zu verlieren. Wir sind die Land- und Straßenkarte, aber auch die Wegweiser, Orts- und Straßenschilder. Wir sind aber kein Navigationssystem wie etwa Google Maps. Wir geben euch den Weg nicht vor oder optimieren ihn für euch. Wir geben euch einen Überblick über verschiedene Routen und wir zeigen euch die Richtung zu verschiedenen Zielen. Hinfahren müsst ihr selbst, um die Schönheit der Wiesen, Felder, Berge, Flüsse und Städte zu erfahren, die auf dem Weg zu eurem Ziel auf euch warten.
 
-- **Wir bewerten euren Lernerfolg**: Am Ende sind wir auch in der Roller der Prüfer, die beurteilen müssen, ob ihr die gesetzten Lernziele erfolgreich erreicht habt. Da wir mit dem LiFi-Projekt ein großes Ziel vor Augen haben, wollen wir euch vorher schon die Sicherheit geben, auf dem richtigen Weg zu sein. Deshalb begleiten wir das Modul mit einer eng getakteten Abfolge von Testataufgaben. Jede bestandene Aufgabe bescheinigt euch, dass ihr dem Ziel ein Stück näher gekommen seid.
+-   **Wir bewerten euren Lernerfolg**: Am Ende sind wir auch in der Roller der Prüfer, die beurteilen müssen, ob ihr die gesetzten Lernziele erfolgreich erreicht habt. Da wir mit dem LiFi-Projekt ein großes Ziel vor Augen haben, wollen wir euch vorher schon die Sicherheit geben, auf dem richtigen Weg zu sein. Deshalb begleiten wir das Modul mit einer eng getakteten Abfolge von Testataufgaben. Jede bestandene Aufgabe bescheinigt euch, dass ihr dem Ziel ein Stück näher gekommen seid.
 
 ### Welche Unterstützung wir anbieten
 
@@ -115,28 +116,32 @@ Zusätzlich zu den 8 verplichtenden Aufgaben gibt es 2 optionale Aufgaben. Diese
 
 Es gibt in diesem Modul keinen Anspruch auf Bonuspunkte. Dennoch wollen wir euch die Möglichkeit geben, im Vorfeld der mündlichen Prüfung ein wenig vorzuarbeiten. Folgendes zählen wir dazu:
 
-- Ihr bearbeitet die optionalen Übungsaufgaben am Endes des Projekts. Eine erfolgreiche Bearbeitung kann bei Nichtbestehen einer verpflichtenden Aufgabe sogar notwendig sein. Solltet ihr sie aber nicht zwingend benötigen, wir sie trotzdem nicht zu eurem Nachteil sein.
+-   Ihr bearbeitet die optionalen Übungsaufgaben am Endes des Projekts. Eine erfolgreiche Bearbeitung kann bei Nichtbestehen einer verpflichtenden Aufgabe sogar notwendig sein. Solltet ihr sie aber nicht zwingend benötigen, wir sie trotzdem nicht zu eurem Nachteil sein.
 
-- Die Sitzungen sind durch Interaktivität geprägt und leben davon, dass ihr gut vorbereitet seid. Noch besser ist, wenn ihr aktiv zur Sitzung beitragt, etwa durch Fragen oder Beiträge zu Übungen. Besondere Bemühungen versuchen wir am Ende des Semesters zu berücksichtigen.
+-   Die Sitzungen sind durch Interaktivität geprägt und leben davon, dass ihr gut vorbereitet seid. Noch besser ist, wenn ihr aktiv zur Sitzung beitragt, etwa durch Fragen oder Beiträge zu Übungen. Besondere Bemühungen versuchen wir am Ende des Semesters zu berücksichtigen.
 
-- Wir fördern und fordern die aktive Unterstützung von Studierenden durch Studierende. Wir schauen hin, wer auf MS Teams die Fragen der anderen beantwortert.
+-   Wir fördern und fordern die aktive Unterstützung von Studierenden durch Studierende. Wir schauen hin, wer auf MS Teams die Fragen der anderen beantwortert.
 
 ### Anmeldung
 
 Wie in jedem Modul müsst ihr euch während der Anmeldephase für die Prüfung in diesem Modul anmelden. Der Zeitraum für die Prüfungsanmeldung wird zentral per E-Mail an alle Studierenden kommuniziert und liegt im Sommer normalerweise im Mai.
 
-## FAQ {.unnumbered}
+## FAQ
 
-### Warum ist das LiFi-Projekt auf Englisch? {.unnumbered}
+### Gibt es eine Anwesenheitspflicht?
 
-- Sämtliche Literaturquellen sind in englischer Sprache verfasst und Englisch ist die primäre Sprache in der Informatik und der Programmierung. Eine Übersetzung der englischen Fachbegriffe wäre unangebracht, weil die meisten auch im Deutschen in ihrer englischen Variante verwendet werden.
+Nein. Alle Sitzungen sowie die Sprechstunden sind *Angebote*, die ihr wahrnehmen könnt, aber nicht müsst. Wir empfehlen es euch dringend, aber es gibt keine Pflicht.
 
-- Das LiFi-Projekt ist nicht nur für diese Veranstaltung die Grundlage, sondern wird auch in einem anderen, englischsprachigen Modul verwendet. Ein zweisprachiges Angebot bedeutet einen unverhältnismäßig hohen Aufwand, besonders weil sich in den nächsten Jahren noch viel verändern wird.
+Es ist verpflichtend, alle Testate fristgerecht einzureichen. Ohne das Bestehen der Testate ist eine Teilnahme an der mündlichen Prüfung nicht möglich.
 
-- Englisch zu lernen schadet niemandem, ganz im Gegenteil.
+### Warum ist das LiFi-Projekt auf Englisch?
+
+-   Sämtliche Literaturquellen sind in englischer Sprache verfasst und Englisch ist die primäre Sprache in der Informatik und der Programmierung. Eine Übersetzung der englischen Fachbegriffe wäre unangebracht, weil die meisten auch im Deutschen in ihrer englischen Variante verwendet werden.
+
+-   Das LiFi-Projekt ist nicht nur für diese Veranstaltung die Grundlage, sondern wird auch in einem anderen, englischsprachigen Modul verwendet. Ein zweisprachiges Angebot bedeutet einen unverhältnismäßig hohen Aufwand, besonders weil sich in den nächsten Jahren noch viel verändern wird.
+
+-   Englisch zu lernen schadet niemandem, ganz im Gegenteil.
 
 ### Was passiert, wenn mein Partner oder meine Partnerin aus dem Modul ausscheidet?
 
 Das kann immer passieren. Kommt bitte in diesem Fall in [meine offene Online-Sprechstunde](https://www.hs-osnabrueck.de/prof-dr-nicolas-meseth/) und wir finden eine Lösung.
-
-
