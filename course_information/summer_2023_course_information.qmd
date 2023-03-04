@@ -30,7 +30,7 @@ Gleichzeitig ist eine Herausforderung der Schlüssel zum Lernerfolg. Das gilt ab
 
 ### Inverted Classroom
 
-Wir orientieren uns in diesem Modul an der Idee des *Inverted Classroom*. Die Sitzungen am Donnerstag werden keine klassischen Vorlesungen sein, in denen ihr uns passiv zuhört. Stattdessen werden wir gemeinsam an Übungen arbeiten, Fragen klären und gemeinsam diskutieren. Das erfordert allerdings, dass ihr gut vorbereitet seid (s. @sec-expectation) und die relevanten Abschnitte im LiFi-Projekt bearbeitet habt.
+Wir orientieren uns in diesem Modul an der Idee des *Inverted Classroom*. Die Sitzungen am Donnerstag werden keine klassischen Vorlesungen sein, in denen ihr uns passiv zuhört. Stattdessen werden wir an Übungen arbeiten, Fragen klären und gemeinsam diskutieren. Das erfordert allerdings, dass ihr gut vorbereitet seid (s. @sec-expectation) und die relevanten Abschnitte im LiFi-Projekt bearbeitet habt.
 
 ### Ablauf
 
