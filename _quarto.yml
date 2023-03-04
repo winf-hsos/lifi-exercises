@@ -2,6 +2,7 @@ project:
   title: "LiFi-Project Exercises"
 author: Prof. Dr. Nicolas Meseth
 subtitle: "The LiFi-project"
+bibliography: references.bib
 lang: en
 format:
   pdf:

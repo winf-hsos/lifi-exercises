@@ -84,6 +84,29 @@ $$d_{red} > d_{green} > d_{orange}$$
 
 holds true.
 
+### 6. The Flashlight Game
+
+This exercise is inspired by chapter four of @petzold_code_2022 and has nothing to do with programming, it doesn't even involve a computer. It's a game that is designed to be played in the classroom. You'll only need:
+
+- Two flashlights with working batteries
+- Ten paper cards and two pencils
+- A web browser with the [Morse code alphabet](https://en.wikipedia.org/wiki/Morse_code) opened
+
+Here are the game instructions:
+
+- Divide your course evenly into two groups. Each group sits or stands together on opposite sides of the room.
+
+- Turn off the lights and close the shades if available. The room should be as dark as possible. But not so dark we can't see anymore.
+
+- On the paper cards, each group writes down 5 different terms from the LiFi-project that were introduced so far. 
+
+- Decide which group starts. The starting group sends one person over to the other side of the room where the second group stands. We call this person the *communicator*, he or she must carry the flashlight. 
+
+- The other group decides which of their five terms they want to give to the opponent group's *communicator*. The communicator now has the task to transmit the term using only flashlight and Morse code. No sounds or other signals are allowed. If the group guesses the correct term within 2 minutes, it gets 1 point.
+
+- Now, the second group takes turn and sends a communicator for their first term. The steps repeat until all cards have been used. The group with most points wins.
+
+
 ## MORE QUESTIONS TO PRACTICE
 
 Try to answer the following questions to practice your understanding of the topics around the LiFi-project. The questions are optional and not part of the submission.
@@ -101,3 +124,8 @@ Try to answer the following questions to practice your understanding of the topi
 -   Is Morse code a binary code?
 
 -   How many bits does Braille code us to represent a symbol? Is Braille code a binary code?
+
+### REFERENCES
+
+::: {#refs}
+:::
