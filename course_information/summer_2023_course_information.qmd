@@ -88,11 +88,11 @@ Um der hohen Anforderung gerecht zu werden, ist dieses Modul von einem intensive
 
 -   Die Aufzeichnung aller Donnerstagssitzungen und zeitnahe Bereitstellung über OpenCast (ILIAS).
 
--   Eine Online-Sprechstunde via Zoom immer montags bis mittwochs von 16 - 17 Uhr. Eine vorherige Buchung eines Zeitslots über ILIAS ist notwendig.
+-   Eine Online-Sprechstunde via Zoom immer montags bis mittwochs von 17 - 18 Uhr. Eine vorherige Anmeldung zur Sitzung über ILIAS ist notwendig.
 
 -   24/7 Kontaktmöglichkeit über MS Teams. Ihr könnt hier jederzeit Fragen stellen, wann wir antworten entscheiden wir nach Kapazität. Ihr habt eine Antwort auf eine Frage einer Kommilitonin? Umso besser, schreibt sie in den Teamraum.
 
--   Ein strukturiertes [Online-Skript für das LiFi-Projekt](https://lifi.datalit.de/) mit weiterführenden Übungsaufgaben, Videos, Links, Literatur und vielem mehr.
+-   Ein strukturiertes [Online-Skript für das LiFi-Projekt](https://lifi.datalit.de/) mit Testataufgaben sowie weiterführenden Übungsaufgaben, Videos, Links, Literatur und vielem mehr.
 
 ## Prüfungsleistung
 

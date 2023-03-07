@@ -44,7 +44,7 @@ Finally, you should run a number of tests to check your hardware and software se
 
 3.  Connect to the hardware kit using the default host and port information. Check whether all devices are found and shown in separate tabs.
 
-4.  Perform the various smoke tests detailed in the online script.
+4.  Perform various tests, some ideas are documented in the online script.
 
 *b) with a Python program*
 
@@ -54,15 +54,17 @@ Finally, you should run a number of tests to check your hardware and software se
 
 3.  Open the file `examples/smoke_test.py` in Visual Studio Code.
 
-4.  Run the program from a terminal and check the output for potential errors.
+4.  Run the program from a terminal and check the output for potential errors. If there are any errors, try to fix them.
+
+5. Find out what the smoke test does. Play around with the hardware and see how changes to the rotary encoder affect the other components. You could also take a look at the code. Or both.
 
 ## SUBMISSION
 
 For your first exercise, please submit:
 
--   One or more photos (.jpg or .png) of your assembled hardware kit
+-   One or more photos (.jpg or .png) of your assembled hardware kit.
 
--   A screenshot (.jpg or .png) from your computer in which the `smoke_test.py` is opened in Visual Studio Code and the terminal shows a successful smoke test run
+-   A screenshot (.jpg or .png) from your computer in which the `smoke_test.py` is opened in Visual Studio Code, the code is running without errors, and the terminal shows the line "Please hit enter to exit".
 
 Submit all files via the corresponding exercise in [ILIAS](https://lms.hs-osnabrueck.de).
 
