@@ -3,11 +3,17 @@ title: "Exercise 8: No More Rules!"
 author: Prof. Dr. Nicolas Meseth
 ---
 
+::: {.callout-note appearance="simple"}
+## Come Back Later
+
+Great, you're ambitious and want to see what's awaiting you in this exercise! But you are ahead of your time - please check back later.
+:::
+
 ## OVERVIEW
 
 In the eighth exercise of the LiFi-project ...
 
-Here are the relevant sections of the online script. Make sure you read everything carefully in order to solve this exercise:
+Here are the relevant lessons of the online script. Make sure you study them carefully in order to solve this exercise:
 
 -   [22 - Too Noisy](https://lifi.datalit.de/lifi-project/too-noisy)
 -   [23 - Learning The Signal](https://lifi.datalit.de/lifi-project/learning-the-signal)

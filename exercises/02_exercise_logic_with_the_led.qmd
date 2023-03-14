@@ -7,7 +7,7 @@ author: Prof. Dr. Nicolas Meseth
 
 In the third exercise of the LiFi-project, you'll start programming using the LED and you'll deepen your understanding of code systems.
 
-Here are the relevant sections of the online script. Make sure you read everything carefully in order to solve this exercise:
+Here are the relevant lessons of the online script. Make sure you study them carefully in order to solve this exercise:
 
 -   [4 - Program's Anatomy](https://lifi.datalit.de/lifi-project/programs-anatomy)
 -   [5 - The LED](https://lifi.datalit.de/lifi-project/the-led)

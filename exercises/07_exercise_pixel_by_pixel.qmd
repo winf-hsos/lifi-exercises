@@ -3,11 +3,17 @@ title: "Exercise 7: Pixel By Pixel"
 author: Prof. Dr. Nicolas Meseth
 ---
 
+::: {.callout-note appearance="simple"}
+## Come Back Later
+
+Great, you're ambitious and want to see what's awaiting you in this exercise! But you are ahead of your time - please check back later.
+:::
+
 ## OVERVIEW
 
 In the seventh exercise of the LiFi-project ...
 
-Here are the relevant sections of the online script. Make sure you read everything carefully in order to solve this exercise:
+Here are the relevant lessons of the online script. Make sure you study them carefully in order to solve this exercise:
 
 -   [19 - Digital Images](https://lifi.datalit.de/lifi-project/digital-images)
 -   [20 - Need More Speed](https://lifi.datalit.de/lifi-project/need-more-speed)
