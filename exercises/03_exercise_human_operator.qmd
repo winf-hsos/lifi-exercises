@@ -3,15 +3,9 @@ title: "Exercise 3: The Human Operator"
 author: Prof. Dr. Nicolas Meseth
 ---
 
-::: {.callout-note appearance="simple"}
-## Come Back Later
-
-Great, you're ambitious and want to see what's awaiting you in this exercise! But you are ahead of your time - please check back later.
-:::
-
 ## OVERVIEW
 
-In the third exercise of the LiFi-project...
+In the third exercise of the LiFi-project, you're going to enhance your understanding of the binary system and practice your coding skills at the same time. 
 
 Here are the relevant lessons of the online script. Make sure you study them carefully in order to solve this exercise:
 
@@ -25,36 +19,79 @@ Good Luck!
 
 To pass this exercise, you must complete the following tasks and submit your results via [ILIAS](https://lms.hs-osnabrueck.de). You find the details on the form of submission below.
 
-### 1. ...
+### 1. Binary Dolmetcher
 
-### 2. ...
+The LiFi prototype will ultimately send data in the form of bits and bytes over light signals. In this exercise, you take one step in that direction:
 
-### 3. ...
+- Write a function with the name `decimal_to_binary`, which takes a whole decimal number and converts it into a string of zeroes and ones that represents the number in the binary system. 
+
+- Write another function `binary_to_decimal`, which does the opposite: it takes a binary number as a string of zeroes and ones, e.g. `1101`, and converts it into its equivalent in the decimal system (here: `13`).
+
+You may not use the built-in function `bin()` or any external modules for this exercise. The converter must be written "by hand" using the concepts we introduced in the previous lessons.
+
+### 2. Count Control
+
+To test the LiFi prototype in a live environment and with no laptop at hand, a future user will have to input data using the rotary encoder. This exercise trains your skills with this particular device.
+
+- Write a program that counts in binary. When the user turns the rotary encoder's knob, the count $c$ is increased (if turned right) or decreased (if turned left) by a number $n$ that can be either 1, 2, 4, 8 or 16.
+
+- The count $c$ cannot be less than 0, and if $c = 0$ and the user keeps turning left, $c$ stays at 0.
+
+- Initially, $n = 1$, and every time the user pressed the knob, $n$ is increased to the next larger number in the list. When $n=16$ and the user presses the knob, it starts again at $n=1$.    
+
+- With every turn of the knob, the new value for $c$ is printed to the console as a **binary number**. Also, if the user presses the knob, the user gets informed through a message on the console, such as *"The value for $n$ is now 8!"*, where the value for $n$ is shown in decimal.
+
+
+### 3. Just The Right Light
+
+In this exercise, you combine the two hardware devices, the LED and the rotary encoder in a single program. Additionally, you apply your knowledge of the RGB code.
+
+- Write a program that allows the user to control the color of the LED using the rotary encoder. The user can increase or decrease the intensity of a the currently controlled base color by turning the knob in the right or left direction.
+
+- To change the currently controlled base color, the user must press the rotary encoder's knob. With each press, the controlled color changes from red to green, and then to blue. The cycle starts over again.
+
+- The intensity for any of the three base colors cannot be lower than 0 or exceed 255. When the intensity is 255 and the user keeps turning right, the intensity rewinds to 0. The same is true for the other direction, where the intensity jumps to 255 when the user keeps turning left at 0.
 
 ## SUBMISSION
 
 For this exercise, please submit:
 
--   `...`
+-   Three Python programs, each in a separate file for the tasks above:
 
--   `...`
+    -   `binary_dolmetcher.py`
 
--   `...`
+    -   `count_control.py`
+
+    -   `right_light.py`
 
 Submit all files via the corresponding exercise in [ILIAS](https://lms.hs-osnabrueck.de).
 
 {{< pagebreak >}}
 
+
 ## MORE EXERCISES TO PRACTICE
 
 The following tasks are for you to practice your skills. They are optional and not part of the submission.
 
-### ...
+### Fast Reaction Game
 
-### ...
+We can use the LED and the rotary encoder to build a small game. The game tests a player's reaction time and faster players score more points. The game works as follows:
+
+- When the program starts, prompt the user to hit ENTER to start a new game.
+
+- Now, let the LED change randomly between the colors red, green, blue, and yellow. A color is shown for a period $p$, which is initially set to 1 second. Let $p$ slowly decrease with the duration of a game.
+
+- When the color green shows up, the player should press the rotary encoder's knob as fast as possible. The time $r$ it took the player to hit the knob is negatively correlated with the points she gets. If it takes longer than a certain time $r_{max}$, the player receives 0 points for that round. Print the achieved points as well as the total point to the console after every round.
+
+- Pressing the knob at a different color than green results in a penalty. The player is also penalized if she fails to press the know during a green color phase.
+
+- Show random colors until the color green showed up 10 times (ten rounds). After every time the LED was green, the period $p$ decreases by a small amount.
+
+- When the game finishes, print the total points to the console. Optionally, ask for the player's name and keep the score in a high score table.
+
 
 ## MORE QUESTIONS TO PRACTICE
 
 Try to answer the following questions to practice your understanding of the topics around the LiFi-project. The questions are optional and not part of the submission.
 
--   ...
+-   Explain why the bit is the smallest possible unit of information!
