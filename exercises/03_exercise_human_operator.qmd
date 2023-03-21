@@ -1,5 +1,5 @@
 ---
-title: "Exercise 3: The Human Operator"
+title: "Exercise 3: On And Off"
 author: Prof. Dr. Nicolas Meseth
 ---
 
@@ -11,7 +11,7 @@ Here are the relevant lessons of the online script. Make sure you study them car
 
 -   [7 - Binary Numbers](https://lifi.datalit.de/lifi-project/binary-numbers)
 -   [8 - The Rotary Encoder](https://lifi.datalit.de/lifi-project/the-rotary-encoder)
--   [9 - Human Input](https://lifi.datalit.de/lifi-project/human-input)
+-   [9 - Data Structures](https://lifi.datalit.de/lifi-project/data-structures)
 
 Good Luck!
 

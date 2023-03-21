@@ -130,6 +130,8 @@ Try to answer the following questions to practice your understanding of the topi
 
 -   Is Morse code a binary code?
 
+-   Which character takes the longest to transmit with Morse code?
+
 -   How many bits does Braille code us to represent a symbol? Is Braille code a binary code?
 
 ### REFERENCES
