@@ -31,7 +31,7 @@ In the LiFi prototype, the LED will act as the sender of information. This requi
 
 -   The keyword "off" should turn off the LED. If it is already off, then nothing happens and a warning message is printed: *"LED is already off"*.
 
--   The keyword "exit" should exit the program after it printed a short good bye message.
+-   The keyword "exit" should exit the program after it printed a short good bye message. As long as the user doesn't enter "exit", she should be asked for another input.
 
 ### 2. Hexadecimal Conversion
 
@@ -48,7 +48,7 @@ print(dec)
 
 ### 3. SOS With Morse Code
 
-Write a program that reads a text sequence containing only capital letters from A-Z from the keyboard and translates it into Morse code. The result should be emitted using the LED. Choose any color you like. Select a unit length that allows a trained human to decode the message.
+Write a program that uses the LED to signal "SOS" in Morse code. Choose any color you like. Select a unit length that allows a trained human to decode the message.
 
 ## SUBMISSION
 
@@ -70,13 +70,18 @@ Submit all files via the corresponding exercise in [ILIAS](https://lms.hs-osnabr
 
 The following tasks are for you to practice your skills. They are optional and not part of the submission.
 
-### 4. Random Color Sequence
+### 4. Morse Code Messages
+
+Extend the third exercise "SOS With Morse Code" to allow the user to enter any text sequence from A-Z as well as the numbers 1-9. The program should translate the whole input sequence into Morse code and emit the corresponding Morse code using the LED.
+
+
+### 5. Random Color Sequence
 
 Write a program that randomly chooses a color from the RGB spectrum and sets the LED to that color for a constant duration $d$. The program should change the LED's color a configurable number of times until it exits.
 
 What happens when all RGB values are very small by chance? How could you prevent this from happening and improve the program?
 
-### 5. Traffic Light
+### 6. Traffic Light
 
 Write a program that simulates the LED as a traffic light. The traffic light should start with a red-phase that lasts $d_{red}$ seconds. The red-phase is followed by a transition-phase from red to green, where the LED turns orange for $d_{orange}$ seconds before it turns green and enters the green-phase. The green-phase lasts $d_{green}$ seconds and is yet again followed by a transition-phase, this time from green to red. The orange light again lasts for $d_{orange}$ seconds. Choose useful values for the three duration parameters $d_{red}$, $d_{green}$, and $d_{yellow}$. Make sure that
 
@@ -84,27 +89,29 @@ $$d_{red} > d_{green} > d_{orange}$$
 
 holds true.
 
-### 6. The Flashlight Game
+### 7. The Flashlight Game
 
 This exercise is inspired by chapter four of @petzold_code_2022 and has nothing to do with programming, it doesn't even involve a computer. It's a game that is designed to be played in the classroom. You'll only need:
 
-- Two flashlights with working batteries
+- A flashlight with working batteries
 - Ten paper cards and two pencils
-- A web browser with the [Morse code alphabet](https://en.wikipedia.org/wiki/Morse_code) opened
+- A printed version of the [Morse code alphabet](https://rsgb.org/main/files/2012/10/Morse_Code_Sheet_01.pdf)
 
 Here are the game instructions:
 
-- Divide your course evenly into two groups. Each group sits or stands together on opposite sides of the room.
+- In this game, small teams of 2-4 students compete against each other in communicating short word via Morse code.
 
-- Turn off the lights and close the shades if available. The room should be as dark as possible. But not so dark we can't see anymore.
+- For a better experience, turn off the lights and close the shades if available. The room should be as dark as possible. But not so dark we can't see anymore.
 
-- On the paper cards, each group writes down 5 different terms from the LiFi-project that were introduced so far. 
+- On the paper cards, each team writes down 5 different terms from the LiFi project that we introduced so far. 
 
-- Decide which group starts. The starting group sends one person over to the other side of the room where the second group stands. We call this person the *communicator*, he or she must carry the flashlight. 
+- Decide which team starts. The starting team sends one person to the other side of the room. We call this person the *communicator*, and he or she must carry the flashlight. 
 
-- The other group decides which of their five terms they want to give to the opponent group's *communicator*. The communicator now has the task to transmit the term using only flashlight and Morse code. No sounds or other signals are allowed. If the group guesses the correct term within 2 minutes, it gets 1 point.
+- The rest of the teams gather and decide which of their terms they want to give to the opponent team's *communicator*. The communicator then has the task to transmit the term using only the flashlight and Morse code. No sounds or other signals are allowed. If the group guesses the correct term within 2 minutes, it gets 1 point. 
 
-- Now, the second group takes turn and sends a communicator for their first term. The steps repeat until all cards have been used. The group with most points wins.
+- Alternatively, you can use a stop timer and record the time it took the team to guess the term. The group with the lowest total time to guess five terms wins.
+
+- Now, the next team takes turn and sends a communicator for their first term. The steps repeat until each team attempted to guess five terms. The group with most points wins.
 
 
 ## MORE QUESTIONS TO PRACTICE
