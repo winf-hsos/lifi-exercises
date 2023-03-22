@@ -11,7 +11,7 @@ Here are the relevant lessons of the online script. Make sure you study them car
 
 -   [7 - Binary Numbers](https://lifi.datalit.de/lifi-project/binary-numbers)
 -   [8 - The Rotary Encoder](https://lifi.datalit.de/lifi-project/the-rotary-encoder)
--   [9 - Data Structures](https://lifi.datalit.de/lifi-project/data-structures)
+-   [9 - Collections](https://lifi.datalit.de/lifi-project/collections)
 
 Good Luck!
 

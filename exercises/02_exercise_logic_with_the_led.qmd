@@ -56,7 +56,7 @@ For this exercise, please submit:
 
 -   Three Python programs, each in a separate file for the tasks above:
 
-    -   `color_by_menu.py`
+    -   `colors_by_menu.py`
 
     -   `hexadecimal_conversion.py`
 
