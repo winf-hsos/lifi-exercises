@@ -41,28 +41,15 @@ To test the LiFi prototype in a live environment and with no laptop at hand, a f
 
 - With every turn of the knob, the new value for $c$ is printed to the console as a **binary number**. Also, if the user presses the knob, the user gets informed through a message on the console, such as *"The value for $n$ is now 8!"*, where the value for $n$ is shown in decimal.
 
-
-### 3. Just The Right Light
-
-In this exercise, you combine the two hardware devices, the LED and the rotary encoder in a single program. Additionally, you apply your knowledge of the RGB code.
-
-- Write a program that allows the user to control the color of the LED using the rotary encoder. The user can increase or decrease the intensity of a the currently controlled base color by turning the knob in the right or left direction.
-
-- To change the currently controlled base color, the user must press the rotary encoder's knob. With each press, the controlled color changes from red to green, and then to blue. The cycle starts over again.
-
-- The intensity for any of the three base colors cannot be lower than 0 or exceed 255. When the intensity is 255 and the user keeps turning right, the intensity rewinds to 0. The same is true for the other direction, where the intensity jumps to 255 when the user keeps turning left at 0.
-
 ## SUBMISSION
 
 For this exercise, please submit:
 
--   Three Python programs, each in a separate file for the tasks above:
+-   Two Python programs, each in a separate file for the tasks above:
 
     -   `binary_dolmetcher.py`
 
     -   `count_control.py`
-
-    -   `right_light.py`
 
 Submit all files via the corresponding exercise in [ILIAS](https://lms.hs-osnabrueck.de).
 
@@ -73,7 +60,18 @@ Submit all files via the corresponding exercise in [ILIAS](https://lms.hs-osnabr
 
 The following tasks are for you to practice your skills. They are optional and not part of the submission.
 
-### Fast Reaction Game
+### 3. Just The Right Light
+
+In this exercise, you combine the two hardware devices, the LED and the rotary encoder in a single program. Additionally, you apply your knowledge of the RGB code.
+
+- Write a program that allows the user to control the color of the LED using the rotary encoder. The user can increase or decrease the intensity of the currently controlled base color by turning the knob in the right or left direction.
+
+- To change the currently controlled base color, the user must press the rotary encoder's knob. With each press, the controlled color changes from red to green, and then to blue. The cycle starts over again.
+
+- The intensity for any of the three base colors cannot be lower than 0 or exceed 255. When the intensity is 255 and the user keeps turning right, the intensity rewinds to 0. The same is true for the other direction, where the intensity jumps to 255 when the user keeps turning left at 0.
+
+
+### 4. Fast Reaction Game
 
 We can use the LED and the rotary encoder to build a small game. The game tests a player's reaction time and faster players score more points. The game works as follows:
 
@@ -92,6 +90,6 @@ We can use the LED and the rotary encoder to build a small game. The game tests 
 
 ## MORE QUESTIONS TO PRACTICE
 
-Try to answer the following questions to practice your understanding of the topics around the LiFi-project. The questions are optional and not part of the submission.
+Try to answer the following questions to practice your understanding of the topics around the LiFi project. The questions are optional and not part of the submission.
 
 -   Explain why the bit is the smallest possible unit of information!
