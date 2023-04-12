@@ -27,7 +27,7 @@ The LiFi prototype will ultimately send data in the form of bits and bytes over 
 
 - Write another function `binary_to_decimal`, which does the opposite: it takes a binary number as a string of zeroes and ones, e.g. `1101`, and converts it into its equivalent in the decimal system (here: `13`).
 
-You may not use the built-in function `bin()` or any external modules for this exercise. The converter must be written "by hand" using the concepts we introduced in the previous lessons.
+You may not use the built-in functions like `bin()`, `int()`, or any external modules for this exercise. The converter must be written "by hand" using the concepts we introduced in the previous lessons.
 
 ### 2. Count Control
 
