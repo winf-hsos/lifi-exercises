@@ -57,4 +57,7 @@ The following tasks are for you to practice your skills. They are optional and n
 
 Try to answer the following questions to practice your understanding of the topics around the LiFi-project. The questions are optional and not part of the submission.
 
--   ...
+-   In an image with a resolution of 800x600 pixels and using 24-bit color depth, calculate:
+    a. The number of bits needed to store the image.
+    b. The number of bytes needed to store the image.
+    c. The number of kilobytes or megabytes needed to store the image.
