@@ -3,21 +3,15 @@ title: "Exercise 4: Digitizing The Physical World"
 author: Prof. Dr. Nicolas Meseth
 ---
 
-::: {.callout-note appearance="simple"}
-## Come Back Later
-
-Great, you're ambitious and want to see what's awaiting you in this exercise! But you are ahead of your time - please check back later.
-:::
-
 ## OVERVIEW
 
-In the fourth exercise of the LiFi-project ...
+In the fourth exercise of the LiFi-project, you will practice your understanding of digitization and apply it in the context of programming. For the LiFi prototype to work, we will need a way to digitize an analog signal, light, so that we can decode the message being sent.
 
 Here are the relevant lessons of the online script. Make sure you study them carefully in order to solve this exercise:
 
--   [10 - Sensing Light](https://lifi.datalit.de/lifi-project/sensing-light)
+-   [10 - Digitization](https://lifi.datalit.de/lifi-project/digitization)
 -   [11 - The Color Sensor](https://lifi.datalit.de/lifi-project/the-color-sensor)
--   [12 - Digitization](https://lifi.datalit.de/lifi-project/digitization)
+-   [12 - Sensing Light](https://lifi.datalit.de/lifi-project/sensing-light)
 
 Good Luck!
 
@@ -25,21 +19,33 @@ Good Luck!
 
 To pass this exercise, you must complete the following tasks and submit your results via [ILIAS](https://lms.hs-osnabrueck.de). You find the details on the form of submission below.
 
-### 1. ...
+### 1. Color Detector
 
-### 2. ...
+This exercise helps prepare the LiFi prototype for receiving information through the color sensor by differentiating between various color signals.
 
-### 3. ...
+-   Develop a program that regularly reads the color sensor's measurements and categorizes them into "red", "green", "blue", and "yellow".
+
+-   Reuse your previous solution and allow the user to input the letters "r", "g", "b", or "y" to set the LED to the corresponding color. As in the previous exercise, entering "exit" should terminate the program.
+
+-   Display the classified result on the console as soon as it is detected.
+
+### 2. Night Light
+
+In this exercise, you will utilize the color sensor's ability to measure the luminosity of the environment.
+
+-   Develop a program that controls the LED based on the room's brightness. When there is a high level of light in the surroundings, such as during the day, the LED should be turned off.
+
+-   When the ambient light is low, the LED should turn on and emit white light. The LED's brightness should be linearly proportional to the amount of ambient light detected by the color sensor. In complete darkness, the LED should shine at full brightness.
+
+-   Ensure that the program continues running until the user presses ENTER by including an input("Please hit ENTER to quit") prompt at the end.
 
 ## SUBMISSION
 
-For this exercise, please submit:
+For this exercise, please submit two files:
 
--   `...`
+-   `color_detector.py`
 
--   `...`
-
--   `...`
+-   `night_light`
 
 Submit all files via the corresponding exercise in [ILIAS](https://lms.hs-osnabrueck.de).
 
@@ -58,6 +64,7 @@ The following tasks are for you to practice your skills. They are optional and n
 Try to answer the following questions to practice your understanding of the topics around the LiFi-project. The questions are optional and not part of the submission.
 
 -   In an image with a resolution of 800x600 pixels and using 24-bit color depth, calculate:
-    a. The number of bits needed to store the image.
-    b. The number of bytes needed to store the image.
-    c. The number of kilobytes or megabytes needed to store the image.
+
+    a) The number of bits needed to store the image.
+    b) The number of bytes needed to store the image.
+    c) The number of kilobytes or megabytes needed to store the image.
