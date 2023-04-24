@@ -1,0 +1,70 @@
+---
+title: "Python Exercise: Collections"
+author: Prof. Dr. Nicolas Meseth
+---
+
+In this exercise, you apply collections to solve different problem. The goal is to get a better understanding of how collections work in practice and which problems they can help you solve.
+
+In the LiFi project, we introduce collections in the following lesson:
+
+-   [9 - Collections](https://lifi.datalit.de/lifi-project/collections)
+
+## 1. Playing with Lists
+
+...
+
+## 2. Shopping List
+
+In this exercise, you use lists in Python to manage your grocery shopping.
+
+1.  Write a program that prompts the user for items to add to the shopping list. Use a list in Python to maintain that shopping list! The user should enter an item like "Apples" and then hit ENTER. The item is now added to the list and the programs prompts the user for the next item.
+
+2.  When the user doesn't type anything and hits ENTER the program stops asking for new items to add. Instead it prints the length of the current shopping list and gives the user the following options to type:
+
+    -   `all` to list all items on the shopping list
+
+    -   `head` to show the first 5 items on the shopping list
+
+    -   `tail` to show the last 5 items added the shopping list
+
+    -   `add` to enter the mode in which the user is prompted for items to add
+
+    -   `del` followed by an items's text to delete this item from the list (example `del Apples`)
+
+    -   `mod` followed by an item's text and a new text to modify the item (example `mod Apples Apple`)
+
+## 2. Counting Words
+
+An application in which we can utilize Python to automate tasks is text processing and analysis. For this exercise, we assume you have the following text from a cover letter to Food Robots Inc. stored on a variable `text` in our Python program:
+
+------------------------------------------------------------------------
+
+*Dear Mrs Müller,*
+
+*I am writing to express my interest in joining Food Robots Inc. as a Food Processing Automation Engineer. I came across the job posting on Monster.com, and I believe my background in food processing and my experience with light-based communication technology make me an ideal candidate for this position.*
+
+*Your company's pioneering work in manufacturing robots for the food production industry is impressive. I was particularly intrigued by the recent research paper you published, exploring alternatives to conventional communication methods like cables and Wi-Fi for robots in food production environments. This resonates with a project I completed during my time at the University of Applied Sciences, where I developed a light-based communication solution called the LiFi Project.*
+
+*The LiFi Project leverages visible light communication to transmit data between devices, providing a fast, secure, and wireless solution ideal for sensitive environments like food production facilities. This technology offers several advantages over traditional Wi-Fi, such as higher data transfer rates, reduced electromagnetic interference, and greater security. I am confident that my hands-on experience with the LiFi Project could be highly beneficial for Food Robots Inc.'s ongoing research efforts.*
+
+*In addition to my experience with the LiFi Project, my academic background in sustainable packaging solutions and my internships in the food processing industry have equipped me with the necessary skills to excel in this role. I am eager to contribute to your team and help Food Robots Inc. advance its mission to revolutionize the food production industry with innovative robotic solutions.*
+
+*Thank you for considering my application. I am excited about the opportunity to contribute to Food Robots Inc. and would appreciate the chance to further discuss my qualifications and how they align with your needs. Please feel free to contact me at 0541 1234 567 or greta.algoritz\@hs-osnabrueck.de to schedule a conversation.*
+
+*Sincerely,*
+
+*Greta Algoritz*
+
+------------------------------------------------------------------------
+
+Given we have this text stored on a variable called `text`, let's try to do something useful with it and leverage the power of collections!
+
+1.  Create a list with the words from the cover letter and store it on a variable `word_list`. The function `split` will help you with this.
+
+2.  Determine the length of the list, that is, how many words (or tokens) does the cover letter have? Print the result to the console!
+
+3.  Create a new list in which you convert all words in the original list to lowercase!
+
+4.  Let your program check whether the cover letter mentions the words "LiFi", "Digitalization" or "Python"! Which list do you use, the original or the one with the lowercase words?
+
+5.  Create another list with only unique words from the cover letter! How many unique words do you count?
