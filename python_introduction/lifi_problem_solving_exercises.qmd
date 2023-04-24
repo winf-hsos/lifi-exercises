@@ -1,0 +1,46 @@
+---
+title: "Problem Solving Exercises"
+author: Prof. Dr. Nicolas Meseth
+---
+
+For the following problems, apply the structured approach you learned in the course and solve the problem with a Python program.
+
+1.  **Define the problem**: Clearly state the problem that you want to solve. What do you want the program to do?
+
+2.  **Identify inputs and outputs**: What information does the program need to solve the problem? What information does the program need to produce as output?
+
+3.  **Plan the solution**: Break down the problem into smaller, manageable steps. What are the different tasks the program needs to perform to solve the problem? Write out a plan on paper or whiteboard before jumping into writing the code.
+
+4.  **Translate into code**: Write the code to implement the plan. Use a programming language (like Python) to translate the plan into code. You can start with comments and later fill in the code.
+
+5.  **Test and refine**: Test the program with different inputs to make sure it works correctly. Refine the program if necessary to handle any edge cases or unexpected inputs.
+
+# Problem 1: Costs for Road Trip
+
+You are planning a road trip and want to calculate the total cost of gas for the trip. Write a program that takes user input for the distance of the trip, the average miles per gallon of the car, and the price per gallon of gas, and calculates the total cost of gas for the trip.
+
+# Problem 2: Inventory Management
+
+You are the owner of a small online store that sells t-shirts. You want to keep track of your inventory and sales. Write a program that takes user input for the number of t-shirts sold and updates the inventory accordingly.
+
+# Problem 3: Circle Area and Circumference
+
+You want to create a program that calculates the area and circumference of a circle. Write a program that takes user input for the radius of a circle and calculates the area and circumference.
+
+# Problem 4: Ticket Costs
+
+You want to create a program that calculates the cost of a movie ticket based on the age of the person buying the ticket. Write a program that takes user input for the age of the person and calculates the cost of the ticket based on the following criteria:
+
+-   If the person is 12 years old or younger, the ticket costs €5.
+
+-   If the person is between 13 and 64 years old (inclusive), the ticket costs €10.
+
+-   If the person is 65 years old or older, the ticket costs €7.
+
+# Problem 5: Guess the Number
+
+You want to create a program that generates a random whole number and asks the user to guess the number. The program should provide feedback to the user indicating whether the guess is too high or too low, and allow the user to keep guessing until they correctly guess the number.
+
+# Problem 6: Simple Statistics
+
+You want to create a program that takes user input for a list of numbers, and then calculates the sum, average, min and max of the numbers in the list. Write a program that prompts the user to enter a list of numbers, separates them using commas, and then calculates the sum and average of the numbers.
