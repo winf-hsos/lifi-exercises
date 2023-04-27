@@ -5,7 +5,7 @@ author: Prof. Dr. Nicolas Meseth
 
 ## OVERVIEW
 
-In the fifth exercise of the LiFi-project ...
+In the fifth exercise of the LiFi project you'll take a big step towards building the LiFi prototype. We'll send and receive our first byte.
 
 Here are the relevant lessons of the online script. Make sure you study them carefully in order to solve this exercise:
 
