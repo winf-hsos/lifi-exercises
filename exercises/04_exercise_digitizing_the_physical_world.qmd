@@ -9,9 +9,9 @@ In the fourth exercise of the LiFi-project, you will practice your understanding
 
 Here are the relevant lessons of the online script. Make sure you study them carefully in order to solve this exercise:
 
--   [10 - Digitization](https://lifi.datalit.de/lifi-project/digitization)
--   [11 - The Color Sensor](https://lifi.datalit.de/lifi-project/the-color-sensor)
--   [12 - Sensing Light](https://lifi.datalit.de/lifi-project/sensing-light)
+-   [Digitization](https://lifi.datalit.de/lifi-project-part-1/from-analog-to-digital/digitization)
+-   [The Color Sensor](https://lifi.datalit.de/lifi-project-part-1/from-analog-to-digital/the-color-sensor)
+-   [Sensing Light](https://lifi.datalit.de/lifi-project-part-1/from-analog-to-digital/signals-over-light)
 
 Good Luck!
 

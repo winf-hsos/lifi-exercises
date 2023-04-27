@@ -1,0 +1,48 @@
+---
+title: "Exercise 5: Speed Of Light"
+author: Prof. Dr. Nicolas Meseth
+---
+
+## OVERVIEW
+
+In the fifth exercise of the LiFi-project ...
+
+Here are the relevant lessons of the online script. Make sure you study them carefully in order to solve this exercise:
+
+-   [Measuring Information](https://lifi.datalit.de/lifi-project-part-1/speed-of-light/measuring-information)
+-   [The OLED Display](https://lifi.datalit.de/lifi-project-part-1/speed-of-light/the-oled-display)
+-   [Very Light Messages](https://lifi.datalit.de/lifi-project-part-1/speed-of-light/very-light-messages)
+
+Good Luck!
+
+## YOUR TASK
+
+To pass this exercise, you must complete the following task and submit your results via [ILIAS](https://lms.hs-osnabrueck.de). You find the details on the form of submission below.
+
+### Speedy Bytes
+
+In this exercise, you will write a program that sends a byte over LiFi using the LED and receives it with the color sensor. This is part of the larger goal of enabling robots to exchange information using LiFi. Your program should be able to send one byte, consisting of eight bits, using the three-color protocol we introduced in the lesson [Very Light Messages](https://lifi.datalit.de/lifi-project-part-1/speed-of-light/very-light-messages).
+
+Here are the steps your program should perform:
+
+1.  Ask the user for a decimal number between 0 and 255.
+
+2.  Convert the decimal number into its binary representation.
+
+3.  Send the resulting byte using the LED and the three-color protocol.
+
+4.  Use the color sensor to receive and decode the signal and store the received sequence of eight bits as a string.
+
+5.  Convert the received byte into a decimal number.
+
+6.  Check whether the received decimal number matches the user's input. If it does not, fix any issues.
+
+7.  Measure the time it takes your program to send and receive the byte. Try to optimize your program for speed while ensuring that the same number is received as was sent.
+
+## SUBMISSION
+
+For this exercise, please submit:
+
+-   `speedy_bytes.py`
+
+Submit the file via the corresponding exercise in [ILIAS](https://lms.hs-osnabrueck.de).
