@@ -39,6 +39,8 @@ Here are the steps your program should perform:
 
 7.  Measure the time it takes your program to send and receive the byte. Try to optimize your program for speed while ensuring that the same number is received as was sent.
 
+8.  Print each received bit to the OLED display once it is received and recognized.
+
 ## SUBMISSION
 
 For this exercise, please submit:
