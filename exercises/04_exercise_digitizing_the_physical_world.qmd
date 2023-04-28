@@ -55,9 +55,13 @@ Submit all files via the corresponding exercise in [ILIAS](https://lms.hs-osnabr
 
 The following tasks are for you to practice your skills. They are optional and not part of the submission.
 
-### ...
+### 3. Background Noise 
 
-### ...
+Improve your solution from the "Night Light" exercise and make it more robust by considering constant background noise.
+
+### 4. Expect the Unexpected
+
+Further improve your solution from the "Night Light" exercise and, in addition to the removal of background noise, try to detect unexpected events. Notify the user via the console when an unexpected event was detected.
 
 ## MORE QUESTIONS TO PRACTICE
 
