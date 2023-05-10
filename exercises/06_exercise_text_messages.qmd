@@ -1,13 +1,7 @@
 ---
-title: "Exercise 6: Back To SMS"
+title: "Exercise 6: Text Messages"
 author: Prof. Dr. Nicolas Meseth
 ---
-
-::: {.callout-note appearance="simple"}
-## Come Back Later
-
-Great, you're ambitious and want to see what's awaiting you in this exercise! But you are ahead of your time - please check back later.
-:::
 
 ## OVERVIEW
 
@@ -49,9 +43,19 @@ Submit all files via the corresponding exercise in [ILIAS](https://lms.hs-osnabr
 
 The following tasks are for you to practice your skills. They are optional and not part of the submission.
 
-### ...
+### X. To Lowercase
 
-### ...
+Write your custom function `to_lower` to convert any given string to lowercase letters only. According to [the lesson in the online script](https://docs.lifi-project.de/lifi-project-part-1/short-messages/text-processing), the function needs to perform the following steps:
+
+1.  The function takes a string argument and iterates through each character in the string.
+
+2.  For each character, the function checks whether it is an uppercase letter by comparing its ASCII code to the range between 65 and 90, which are the ASCII codes for uppercase letters. We can get the ASCII code of a character using the `ord()` function.
+
+3.  If the character is an uppercase letter, the function adds 32 to its ASCII code, which effectively converts it to the corresponding lowercase letter. Then, it converts the new ASCII code back to a character using the `chr()` function and adds it to a result string variable.
+
+4.  If the character is not an uppercase letter, the function simply adds the character to the result variable without modification.
+
+5.  After all characters have been processed, the function returns the result variable containing the converted string.
 
 ## MORE QUESTIONS TO PRACTICE
 
