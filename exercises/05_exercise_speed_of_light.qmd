@@ -48,3 +48,17 @@ For this exercise, please submit:
 -   `speedy_bytes.py`
 
 Submit the file via the corresponding exercise in [ILIAS](https://lms.hs-osnabrueck.de).
+
+{{< pagebreak >}}
+
+## MORE QUESTIONS TO PRACTICE
+
+Try to answer the following questions to practice your understanding of the topics around the LiFi-project. The questions are optional and not part of the submission.
+
+-   Please provide the amount of information in bits that needs to be transmitted for the following messages. Explain how you arrived at your answer for each:
+    -   A German license plate
+    -   A hand of "Doppelkopf" (a German card game)
+    -   The lottery numbers (6 out of 49)
+    -   A 10-digit phone number, such as: 555-123-4567
+    -   An 8-character password that includes only uppercase letters, lowercase letters, and numbers
+    -   An IP address like 192.168.0.1
