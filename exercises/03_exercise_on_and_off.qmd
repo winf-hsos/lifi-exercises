@@ -39,7 +39,7 @@ To test the LiFi prototype in a live environment and with no laptop at hand, a f
 
 -   Initially, $n = 1$, and every time the user pressed the knob, $n$ is increased to the next larger number in the list. When $n=16$ and the user presses the knob, it starts again at $n=1$.
 
--   With every turn of the knob, the new value for $c$ is printed to the console as a **binary number**. Also, if the user presses the knob, the user gets informed through a message on the console, such as *"The value for* $n$ is now 8!", where the value for $n$ is shown in decimal.
+-   With every turn of the knob, the new value for $c$ is printed to the console as a **binary number**. Also, if the user presses the knob, the user gets informed through a message on the console, such as *"The value for $n$ is now 8!"*, where the value for $n$ is shown in decimal.
 
 ## SUBMISSION
 

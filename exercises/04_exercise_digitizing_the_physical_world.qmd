@@ -27,7 +27,7 @@ This exercise helps prepare the LiFi prototype for receiving information through
 
 -   Reuse your previous solution and allow the user to input the letters "r", "g", "b", or "y" to set the LED to the corresponding color. As in the previous exercise, entering "exit" should terminate the program.
 
--   Display the classified result on the console as soon as it is detected.
+-   Display the classification result on the console as soon as a change in color is detected.
 
 ### 2. Night Light
 
