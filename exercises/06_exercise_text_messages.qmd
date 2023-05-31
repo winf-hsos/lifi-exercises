@@ -52,7 +52,7 @@ For this exercise, please submit:
 
 -   `ascii_audit_trails.py`
 
-Submit the file via the corresponding exercise in [ILIAS](https://lms.hs-osnabrueck.de).
+Submit the file via the corresponding exercise in [ILIAS](https://lms.hs-osnabrueck.de). To get started, please use the provided submission template from the LiFi-code GitHub repository: [`ascci_audit_trails.py`](https://github.com/winf-hsos/LiFi-code/blob/main/submission_templates/exercise_06/ascii_audit_trails.py).
 
 {{< pagebreak >}}
 
