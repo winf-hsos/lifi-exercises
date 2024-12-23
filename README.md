@@ -1,6 +1,6 @@
 # Exercises for the LiFi project
 
-This repository contains the exercises for the [LiFi project](https://lifi.datalit.de).
+This repository contains the exercises for the [LiFi project](https://docs.lifi-project.de).
 
 # License
 
