@@ -1,0 +1,121 @@
+---
+title: "Exercise: Understanding the Problem"
+author: Prof. Dr. Nicolas Meseth
+---
+
+## OVERVIEW
+
+In this exercise of the LiFi-project, you're going to ...
+
+Here are the relevant lessons from the online script. Make sure you study them carefully in order to solve this exercise:
+
+-   [Binary Numbers](https://lifi.datalit.de/lifi-project-part-1/on-and-off/binary-numbers)
+-   [The Rotary Encoder](https://lifi.datalit.de/lifi-project-part-1/on-and-off/the-rotary-encoder)
+-   [Collections](https://lifi.datalit.de/lifi-project-part-1/on-and-off/collections)
+
+Good Luck!
+
+## YOUR TASKS
+
+To pass this exercise, you must complete the following tasks and submit your results via [ILIAS](https://lms.hs-osnabrueck.de). You find the details on the form of submission below.
+
+### 1. Two Input-Process-Ouput (IPO) models
+
+The LiFi prototype performs two essential roles in communication:
+
+1. Sending Data: It must take input information, such as a text message, and convert it into light signals using its LED, ensuring the signals represent the exact message accurately.
+
+2. Receiving Data: It must detect incoming light signals with its sensor and decode these signals back into the original text message or data.
+
+Your task is to define two separate IPO models—one for each role. For each model:
+
+- Specify the inputs required for the task.
+
+- Detail the processing steps necessary to handle the inputs
+
+- Clearly describe the output produced.
+
+Be as specific as possible at this stage of the project. Consider:
+
+- What data or signals are involved in each role.
+
+- What transformations or computations are required to ensure accurate communication.
+
+- How the two roles will interact to complete the communication process.
+
+### 2. Breaking it down
+
+In the first task, you identified the two main roles of the LiFi prototype: **sending data** and **receiving data**. Now, it’s time to take it a step further: Think about how each of these roles can be split into smaller, more manageable subtasks. 
+
+For example:
+
+- What are the individual steps involved in preparing data for transmission via the LED?
+
+- What specific actions are required to detect, interpret, and decode light signals?
+
+Focus on creating a detailed breakdown of both tasks, considering:
+
+- What specific hardware components (e.g., LED, color sensor) are involved, and what do they need to do?
+
+- What processes (e.g., encoding, decoding, error handling) are necessary to support each step?
+
+- Communication Protocol: How will the sender and receiver stay synchronized (e.g., start/stop signals, timing, or error checking)?
+
+**Hint**: Think of this as creating a "to-do list" for building the sender and receiver. Each item should represent a smaller piece of the larger puzzle. The more detailed your breakdown, the easier it will be to implement and troubleshoot later!
+
+
+### 3. Can we parallelize communication?
+
+In any data transmission system, the speed of communication is limited by the rate at which devices can send and receive information. For your LiFi prototype, this means the performance of the LED and color sensor could become a bottleneck, restricting how quickly data can be transferred.
+
+- Consider whether parallelizing the data transfer—using multiple LEDs and color sensors simultaneously—could be a viable solution to improve data transmission speed.
+
+- Are there alternative approaches to increasing speed that don’t involve adding more hardware?
+
+## SUBMISSION
+
+For this exercise, please submit:
+
+-   Two Python programs, each in a separate file for the tasks above:
+
+    -   `binary_dolmetcher.py`
+
+    -   `count_control.py`
+
+Submit all files via the corresponding exercise in [ILIAS](https://lms.hs-osnabrueck.de).
+
+{{< pagebreak >}}
+
+## MORE EXERCISES TO PRACTICE
+
+The following tasks are for you to practice your skills. They are not part of the submission.
+
+### 4. More IPO examples
+
+Formulate three additional problems using the presented IPO model for problem-solving with digital computers. For each problem, specify the input, processing steps, and output!
+
+### 5. Smaller problems
+
+Consider for each of the following problems how you could break it down into smaller sub-problems:
+
+a. Successfully passing the exam in this module
+
+b. Building a house
+
+c. Running a marathon
+
+### 6. Distribute and parallelize
+
+Analyze the following problems and examine whether you can distribute and parallelize the steps for solving them:
+
+a. Conducting a literature review for your bachelor's thesis
+
+b. Conducting a representative survey for the federal election
+
+c. Building a house
+
+## MORE QUESTIONS TO PRACTICE
+
+Try to answer the following questions to practice your understanding of the topics around the LiFi project. The questions are not part of the submission.
+
+1.  ...
